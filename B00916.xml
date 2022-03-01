@@ -1,0 +1,1558 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rhann o psalmae Dafydd brophwyd ivv canu ar ôl y dôn arferedig yn Eglwys Loegr..</title>
+            <title>Bible. O.T. Psalms I-XIII. Welsh. Kyffin. 1603.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00916</idno>
+            <idno type="STC">STC 2743</idno>
+            <idno type="STC">ESTC S90847</idno>
+            <idno type="EEBO-CITATION">56572809</idno>
+            <idno type="OCLC">ocm 56572809</idno>
+            <idno type="VID">180916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180916)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2144:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rhann o psalmae Dafydd brophwyd ivv canu ar ôl y dôn arferedig yn Eglwys Loegr..</title>
+                  <title>Bible. O.T. Psalms I-XIII. Welsh. Kyffin. 1603.</title>
+                  <author>Kyffin, Edward.</author>
+                  <author>Myddelton, William, 1556?-1621.</author>
+               </titleStmt>
+               <extent>[34] p.   </extent>
+               <publicationStmt>
+                  <publisher>Simon Stafford a'i printodd yn LLunden dros T.S.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1603..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within border of printers' ornaments, with head-piece; initial.</note>
+                  <note>Preface signed: Edward Kyffin.</note>
+                  <note>The first 13 Psalms in parallel Welsh versions: William Midleton's translation and Kyffin's paraphrase.</note>
+                  <note>Imperfect: some pages faded.</note>
+                  <note>Reproduction of original in: National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms I-XIII --  Paraphrases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180916:1"/>
+            <pb facs="tcp:180916:1" rendition="simple:additions"/>
+            <p>RHANN O PSALMAE DAFYDD <hi>BROPHWYD J<g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g> CA<g ref="char:EOLhyphen"/>nu</hi> ar ôl y dôn arferedig yn <hi>Eglwys Loegr.</hi>
+            </p>
+            <p>Simon Stafford a'i printiodd <hi>yn LLunden dros T. S.</hi> 1603.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:180916:2"/>
+            <pb facs="tcp:180916:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> At fyngharedigion wlâd-wyr <hi>y Sawla gârant Ogoniant yr Arglwydd,</hi> ag ymgeledd ei <hi>gwlad<g ref="char:EOLhyphen"/>iaith.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Rth weled mor ofalus ydiw ieithyddi<g ref="char:EOLhyphen"/>on eraill am ei gwlad-iaith, a chynnydd yr Efengil drwy oll grêd, a bôd y Sae<g ref="char:EOLhyphen"/>ſon mor gymwynaſcar iw gelynion y Spaeniaid ag iddynt brintio bagad o lyfre yn yr Yſpaen-iaith ai danfon y<g ref="char:EOLhyphen"/>myſc y gelynion ar feddwl ei hynnill at Dduw, ar rhai a aeth a'r llyfre rheini at y gelynion, a fentriaſant nid yn vnig ei dâ ai trafel ond ei hoedl hefyd ar fedr gwneuthur llês i Eſtron-Genedl.</p>
+            <p>Pa faint mwy y dylem-mi ymgeleddu eyn hiaith eyn hunain yr honn a ddeffynnodd y Goruchaf dduw yn yr vn-lle yn y deyrnas honn ers ſeith-gant-a'r-higen o fly<g ref="char:EOLhyphen"/>nyddoedd ag y chwaneg ymyſc cyn-niuer o amrafaelion Genhedloedd, terfyſcoedd a diniſtroedd a fu i'n myſc er yr amſer hwnnw i geiſio difa a diniſtrio yr iaith ai phobl yn llwyr. Yr hynn beth ni all vn naſiwn nag iaith ar ſydd dann Grêd a Bedydd heddyw ddoedyd y cyffelib. Am yr hynn yrydym-mi yn fwy rhwymedig i'r Arglwydd nag oll Bobloedd y byd: ag nyni yn ôlaf ag yn ddiweddarat am oſod allan Ogoniant Duw yn eyn iaith eyn hu<g ref="char:EOLhyphen"/>nain.</p>
+            <p>Ag wrth weled a chlywed mor brydferth ag mor hy<g ref="char:EOLhyphen"/>fryd rydys yn moliannu Duw yn yr holl Eglwyſille ma<g ref="char:EOLhyphen"/>er Efengil yn cael rhyddid, ond Ynghymru yn vnig,
+<pb facs="tcp:180916:3"/> wrth ganu Pſalmae <hi>Dafydd,</hi> hynny a wnaethi mi (Er Go<g ref="char:EOLhyphen"/>goniant i'r Arglwydd, a Chariad i'm Gwlâd) ddangos fy wyllys dâ yn cychwyn hynn o waith ar ddechre cyngha<g ref="char:EOLhyphen"/>neddu hynn o Pſalmae yn neſa ag ellais at feddwl yr Y<g ref="char:EOLhyphen"/>ſpryd glân, fel y cefais hwynt yn ſcrifennedig yn y Scry<g ref="char:EOLhyphen"/>thurav.</p>
+            <p>Mi a rois y Pſalmae prôs ar gyfer y Gynghanedd, ag a adewais lê rhwng pôb Vers ai gilidd o'r Gynghanedd fel i gallo rhai celfyddach gymhennu a pherpheithio hynn a wneuthym i ofrâs-nâddiad, er prâw yn vnig, ag er annog eraill (a fedrant yn well) ei hailddiwygu hwynt.</p>
+            <p>Gann ddamuno arnoch bawb yn ol ei allu hyfforddi fy wyllys dâ i a'ch cyngor a'ch cymorth, i amlygu i'r byd eych ſerch a'ch cariad i Dduw a'ch Gwlâd. Yr hynn bêth os gwnewch, chwi a ogoneddwch yr Arglwydd, chwi a fawrhewch eych gwlâd, ag a'm cyſſurwch innau, nid yn vnig i fynd trwodd a holl gorff y Pſalmae yn yr vn-rhyw gynghaneddiad (yr hwnn feſur gynghanedd ſydd gym<g ref="char:EOLhyphen"/>wyſaf ei ganu gann yr oll Gynlleidfa ar vn-waith) ond he<g ref="char:EOLhyphen"/>fyd i lêſhau fy ngwlâd ymhellach ar ól hynn mewn pethau dnwiol eraill o'r Scrythur lân.</p>
+            <p>Drwy obeithio gann gadw o dduw nyni a'n hiaith mor gryno ag mor ddi-lwgr dros gyd o amſer, fôd gann yr Arglwydd dduw ryw orcheſt-waith a gorchafi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth tu ag at amlhâd ei ogoniant ei hûn ym-myſc yr hên Frutaniaid a gadwodd ef mor wyrth-fawr mewn rhyddid a diogelwch hyd yn hynn.</p>
+            <p>A chan eyn bôd yn byw yn yr Oes honn dann ard<g ref="char:EOLhyphen"/>derchockaf Vrenhines o'n gwlâd eyn hunain, yr honn ſydd yn canhiadu i ni gael y Scrythur lân yn eyn hiaith eyn hunain, ag oll gyfreidiau eraill ar a ddamunem ei cael tu ag at amlhau Gogoniant Duw, a mawrhâd eyn hiaith: (Yr hynn bêth ni a attolygwn i dduw ei hîr-gynnal i ni rhag-llaw) O fy anwyl wlad-wyr, tra fo duw yn canhiattau i ni, y rhwydd-deb, yr heddwch, a'r rhyddid y rydym y<g ref="char:EOLhyphen"/>rowron yn ei gael, na chollwn yr am<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er preſennol, ond yn
+<pb facs="tcp:180916:3"/> hytrach gwaredwn yr hîr-amſer a gollaſom yn barod, a dangoſwn i'r byd, eyn bôd yn priſio mwy am Ogoniant Duw, am Orchafiaeth a derchafiad eyn Gwlâd a'n hiaith, ag am ddi-dranck lywenydd ag iechy dwriaeth eyn Enei<g ref="char:EOLhyphen"/>diau eyn hunain, nag yr ydym am ddarfodedig fwnws y byd hwnn, yr hynn nid oes im ond byrr amſer iw fwyn<g ref="char:EOLhyphen"/>hau.</p>
+            <p>Ag ar hynn mi a ddamunwn ar bôb gwir Gymro na rodde hûn iw lygaid, na heppian iw amrannau (fel y do<g ref="char:EOLhyphen"/>edodd y Prophwyd <hi>Dafydd</hi>) nês gweled Gogoniant yr Arglwydd, drwy hy-fforddi gorffenniad y Gorchwyl du<g ref="char:EOLhyphen"/>wiol yma yn ei wlad-iaith ei hunan.</p>
+            <p>Yr oll-alluawg dduw yr hwn yn vnig a roes y meddwl ynofi i gychwyn hynn o waith, a gynnhyrfo ynoch chwi<g ref="char:EOLhyphen"/>thau wyllys i gymorth yr vnthyw, tu ag att helaethiad Go<g ref="char:EOLhyphen"/>goniant Duw, mawrhâd eyn Priod-iaith, a chyſſur eyn Eneidiau erbyn y dydd a ddâw.</p>
+            <closer>
+               <signed>Yr eiddoch iw orchymyn yn- Chriſt Ieſu: <hi>Edward Kyffin.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="introduction_to_Welsh">
+            <head>a<g ref="char:cmbAbbrStroke">̄</g> e<g ref="char:cmbAbbrStroke">̄</g> i<g ref="char:cmbAbbrStroke">̄</g> o<g ref="char:cmbAbbrStroke">̄</g> u<g ref="char:cmbAbbrStroke">̄</g> w<g ref="char:cmbAbbrStroke">̄</g> y <g ref="char:cmbAbbrStroke">̄</g>
+            </head>
+            <p>LLe gweloch y llythrennau v<g ref="char:EOLhyphen"/>chod a'r nôdau hynn dros ei pen<g ref="char:EOLhyphen"/>nau rhaid fydd ei llefaru hwynt yn hîr.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180916:4"/>
+            <div n="1" type="Psalm">
+               <pb facs="tcp:180916:4"/>
+               <head>Pſal. 1.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">D</seg>Ŷn ni rodio dedwydd yw</l>
+                  <l>ynghyngor an-nuw ddynion:</l>
+                  <l>Yn fordd pechadwyr ni ſai,</l>
+                  <l>niſte<g ref="char:cmbAbbrStroke">̄</g>ddai'n ſto<g ref="char:cmbAbbrStroke">̄</g>l gwatworion</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Ond ei holl ddifyrwch ſydd</l>
+                  <l>yng-hyfraith Arglwydd nefol:</l>
+                  <l>Ag yn vnthyw gyfraith ry<g ref="char:cmbAbbrStroke">̄</g>dd</l>
+                  <l>mae beunydd yn fyfyriol.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Fel prenn glann-ddwr dw<g ref="char:cmbAbbrStroke">̄</g>g ffrwyth pry<g ref="char:cmbAbbrStroke">̄</g>d,</l>
+                  <l>ei ir-ddail clyd ni wywa:</l>
+                  <l>Pa beth bynnag wne<g ref="char:cmbAbbrStroke">̄</g>l ei la<g ref="char:cmbAbbrStroke">̄</g>w</l>
+                  <l>hynny dra<g ref="char:cmbAbbrStroke">̄</g>w a lwydda.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Nid vn-fa<g ref="char:cmbAbbrStroke">̄</g>th y di-dduw trw<g ref="char:cmbAbbrStroke">̄</g>ch,</l>
+                  <l>fel u<g ref="char:cmbAbbrStroke">̄</g>s a llwch i gwelir:</l>
+                  <l>Oddar wyneb dayar faith</l>
+                  <l>gann yrrwynt daith a chwelir.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Am hynn niſai enwir lu<g ref="char:cmbAbbrStroke">̄</g>,</l>
+                  <l>wrth farnu'r ddeu-lu 'n iniawn.</l>
+                  <l>Nar pechadwyr diriaid bla<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>myſc y gynlleidfa gyfiawn.</l>
+               </lg>
+               <pb facs="tcp:180916:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <lg n="6">
+                  <pb facs="tcp:180916:6" rendition="simple:additions"/>
+                  <head>6</head>
+                  <l>Herwydd ffordd y cyf<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>awn rhwydd</l>
+                  <l>ebrwydd duw ai hedwyn:</l>
+                  <l>A difethir hwnt ar lle<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>ffordd ddi-gre<g ref="char:cmbAbbrStroke">̄</g>d annvwiol-ddyn.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>I'r nefol dâd Moliant gân,</hi>
+                  </l>
+                  <l>
+                     <hi>i'r Mâb, ag i'r glân Yſpryd:</hi>
+                  </l>
+                  <l>
+                     <hi>Fel i bû, Yrowron ſydd,</hi>
+                  </l>
+                  <l>
+                     <hi>a bydd yn anniwedd-fyd.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="Psalm">
+               <head>Pſal. 2.</head>
+               <lg>
+                  <l>PAm i co<g ref="char:cmbAbbrStroke">̄</g>dant Derfyſc floedd</l>
+                  <l>Genhedloedd o gynddaredd:</l>
+                  <l>Ar Iddeon bobl gan</l>
+                  <l>ai bry<g ref="char:cmbAbbrStroke">̄</g>d ar wau oferedd.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Brenhinoedd a phennaethiaid bŷd</l>
+                  <l>maent yn cyd-gynghori:</l>
+                  <l>Yn erbyn yr Arglwydd rhawg,</l>
+                  <l>ai Griſt eneiniawg Geli.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Drylliwn (Meddant) rwymau rhain,</l>
+                  <l>ai coelfain gyrt-reffynnau:</l>
+                  <l>Taflwn ymaith yr iau ddyſc</l>
+                  <l>eiddynt fyſe eyn gwarrau.</l>
+               </lg>
+               <lg n="4">
+                  <pb facs="tcp:180916:6" rendition="simple:additions"/>
+                  <head>4</head>
+                  <l>Ond preſſwyludd Ne<g ref="char:cmbAbbrStroke">̄</g>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a chwardd</l>
+                  <l>am benn ei hanardd fwriad:</l>
+                  <l>Duw ai gwarwar am ei gw<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g,</l>
+                  <l>ai diffaith gilwg hy-frad.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Yna wrthynt yn ei lid</l>
+                  <l>llefarid y Gorucha:</l>
+                  <l>Ag yn ei do<g ref="char:cmbAbbrStroke">̄</g>ſt ddigllonrwydd</l>
+                  <l>yr Arglwydd ai dychrynna.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Mi oſodais fy-Mrenin</l>
+                  <l>ar fy nillin fynydd</l>
+                  <l>Sion Sanct lle ceiff barha<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>a thrigiad yn dragywydd.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Mynegaf y Gyfraith rw<g ref="char:cmbAbbrStroke">̄</g>ydd</l>
+                  <l>a ddoedai'r Arglwydd wrthy:</l>
+                  <l>Fy Ma<g ref="char:cmbAbbrStroke">̄</g>b ydwyt, myfi dduw</l>
+                  <l>gwnn heddyw dy genedly.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>Gofyn i mi, rho<g ref="char:cmbAbbrStroke">̄</g>f ar goedd</l>
+                  <l>Genhedloedd ith tifeddiaeth</l>
+                  <l>A therfynau Dayar fy<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>cei hefyd ith feddiannaeth.</l>
+               </lg>
+               <lg n="9">
+                  <pb facs="tcp:180916:7"/>
+                  <head>9</head>
+                  <l>Briwi hwynt (ith gyfion farn)</l>
+                  <l>a gwialen hayarn odifri:</l>
+                  <l>Ag fel lleſtr priddin ddyll</l>
+                  <l>yn gann-dryll hwynt maluri</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>Gann hynny byddwch ſynhwyrol</l>
+                  <l>Frenhinoedd reiol rowron:</l>
+                  <l>Barnwyr dayar cymrwch ddyſc</l>
+                  <l>(dduwiol addyſc ffrwythl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.)</l>
+               </lg>
+               <lg n="11">
+                  <head>11</head>
+                  <l>Gwſneythwch yr Arglwydd dduw</l>
+                  <l>mewn iown-ryw ofn a berthyn:</l>
+                  <l>Ag ym-lawenhewch dann go<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>iddo mewn parch-ddychryn.</l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>Cuſſenwch y Ma<g ref="char:cmbAbbrStroke">̄</g>b rhag ei ddig,</l>
+                  <l>chydig oi lid pann gneuo</l>
+                  <l>A'ch difetha o'r ffordd rwydd:</l>
+                  <l>dedwydd ſawl ai 'mddiriedo.</l>
+               </lg>
+            </div>
+            <div n="3" type="Psalm">
+               <head>Pſal. 3</head>
+               <lg>
+                  <l>ARglwydd amled ydyw'r gwyr</l>
+                  <l>y fydd drallodwyr i mi:</l>
+                  <l>Llawer o gaſeion tynn</l>
+                  <l>im herbyn ſydd yn co<g ref="char:cmbAbbrStroke">̄</g>di.</l>
+               </lg>
+               <lg n="2">
+                  <pb facs="tcp:180916:7"/>
+                  <head>2</head>
+                  <l>Llawer doedant yn ddi-baid</l>
+                  <l>am f'enaid eiriau rhy-gaeth:</l>
+                  <l>Nid oes iddo yn ei dduw</l>
+                  <l>vn-rhyw iechydwriaeth.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Tithe Arglwydd goreu-lan</l>
+                  <l>ydwyt darian i mi:</l>
+                  <l>Fyngogoniant wyt am bu<g ref="char:cmbAbbrStroke">̄</g>dd,</l>
+                  <l>fy-mhenn-dderchafudd wedi.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Gelwais ar yr Arglwydd Ne<g ref="char:cmbAbbrStroke">̄</g>f</l>
+                  <l>am lie<g ref="char:cmbAbbrStroke">̄</g>f o ddyfnder calon:</l>
+                  <l>Ag ef a glybu 'nghyſtudd</l>
+                  <l>oi ſanctaidd fynydd tirion.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Gann fy-mhwyll mi orweddais,</l>
+                  <l>ag a gyſcais iownfodd:</l>
+                  <l>A deffroais, o herwydd</l>
+                  <l>yr Arglwydd am cynnhaliodd.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Nid ofnaf fyrdd niferoedd</l>
+                  <l>o bobloedd am amgylchant:</l>
+                  <l>Ag i'm herbyn o lawn fry<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>a gy<g ref="char:cmbAbbrStroke">̄</g>d-ymoſodaſant.</l>
+               </lg>
+               <lg n="7">
+                  <pb facs="tcp:180916:8"/>
+                  <head>7</head>
+                  <l>Cyfod fy-Nuw, achub fi,</l>
+                  <l>trewaiſt ri 'ngelynion</l>
+                  <l>Ar garr yr e<g ref="char:cmbAbbrStroke">̄</g>n: torraiſt we<g ref="char:cmbAbbrStroke">̄</g>dd</l>
+                  <l>ddannedd annvwolion.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>Oll yn eiddo 'r Arglwydd aeth</l>
+                  <l>iechyd wriaeth Dynion:</l>
+                  <l>Ti a renni dy fendith</l>
+                  <l>ymhli<g ref="char:cmbAbbrStroke">̄</g>th dy bobl wirion.</l>
+               </lg>
+            </div>
+            <div n="4" type="Psalm">
+               <head>Pſal. 4.</head>
+               <lg>
+                  <l>GWrando fi pann alwyf dduw,</l>
+                  <l>wir-dduw fynghyfiawnder:</l>
+                  <l>Trugarha<g ref="char:cmbAbbrStroke">̄</g>, erglyw fyngweddi,</l>
+                  <l>ehengaiſt fi 'nghyfyngder.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>O feibion dynion pa hy<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>i trowch fyngh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yd-ogoniant</l>
+                  <l>Yn wartha<g ref="char:cmbAbbrStroke">̄</g>d? gorwe<g ref="char:cmbAbbrStroke">̄</g>gi ho<g ref="char:cmbAbbrStroke">̄</g>ffwch,</l>
+                  <l>arge<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wch gelwydd ſomiant?</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Gwybyddwch i'r Arglwydd ethol</l>
+                  <l>y duwiol iddo ei hunan:</l>
+                  <l>Pann alwyf ar fy nuw cu<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>ef a wrendu 'nghwynfan.</l>
+               </lg>
+               <lg n="4">
+                  <pb facs="tcp:180916:8"/>
+                  <head>4</head>
+                  <l>Ewir-ofnwch, ag na phe<g ref="char:cmbAbbrStroke">̄</g>chwch,</l>
+                  <l>meddyliwch yn eych calon:</l>
+                  <l>Ar eych gwely difarhewch,</l>
+                  <l>diſtewch (fel rhai vfuddion.)</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Aberthwch i dduw ebyrth pe<g ref="char:cmbAbbrStroke">̄</g>r</l>
+                  <l>Cyfiawnder (gwiw-offrymiad)</l>
+                  <l>A gobeithiwch (yn hy-lwydd)</l>
+                  <l>yn yr Arglwydd hael-da<g ref="char:cmbAbbrStroke">̄</g>d.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Llaweroedd ſy 'n ddo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dyd, pwy</l>
+                  <l>A ddengys mwy dda<g ref="char:cmbAbbrStroke">̄</g> i ni:</l>
+                  <l>Arglwydd dercha arnom gyrch</l>
+                  <l>lewyrch dy wyneb heini.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Rhoiſt lawenydd im calon,</l>
+                  <l>(cynnheſaiſt fy mronn ddu<g ref="char:cmbAbbrStroke">̄</g>-rew)</l>
+                  <l>Er pann amlha<g ref="char:cmbAbbrStroke">̄</g>dd ei hy<g ref="char:cmbAbbrStroke">̄</g>d,</l>
+                  <l>ai gwin ei gy<g ref="char:cmbAbbrStroke">̄</g>d, ai holew.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>Mewn heddwch y gorweddaf,</l>
+                  <l>a hu<g ref="char:cmbAbbrStroke">̄</g>naf yn ddi-ebwch:</l>
+                  <l>Cans ti Arglwydd yn vnig</l>
+                  <l>a'm tri<g ref="char:cmbAbbrStroke">̄</g>g mewn diogelwch.</l>
+               </lg>
+            </div>
+            <div n="5" type="Psalm">
+               <pb facs="tcp:180916:9" rendition="simple:additions"/>
+               <head>Pſal 5.</head>
+               <lg>
+                  <l>Gwrando Arglwydd, (w<g ref="char:cmbAbbrStroke">̄</g>yf yn gwav)</l>
+                  <l>fyng-eiriav attat vchod:</l>
+                  <l>Ag ydolwg fy-nuw call</l>
+                  <l>deall fy myfyrdod.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Erglyw ar le<g ref="char:cmbAbbrStroke">̄</g>f fyng-waedd-dri<g ref="char:cmbAbbrStroke">̄</g>n</l>
+                  <l>fy-Mrenin dduw goruchaf:</l>
+                  <l>Yſtyr wrth fyng-alar-na<g ref="char:cmbAbbrStroke">̄</g>d,</l>
+                  <l>cans arnad y gweddiaf.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Yn foreuol Arglwydd ne<g ref="char:cmbAbbrStroke">̄</g>f</l>
+                  <l>clywi fy lle<g ref="char:cmbAbbrStroke">̄</g>f ddifrifaf:</l>
+                  <l>Yn fore cyfeiriaf attad</l>
+                  <l>ag am dy ra<g ref="char:cmbAbbrStroke">̄</g>d diſgwiliaf.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>O herwydd nad wyt ti dduw,</l>
+                  <l>yn wyllyſio rhy<g ref="char:cmbAbbrStroke">̄</g>w an wiredd:</l>
+                  <l>Y drw<g ref="char:cmbAbbrStroke">̄</g>g ni thri<g ref="char:cmbAbbrStroke">̄</g>g gida thi<g ref="char:cmbAbbrStroke">̄</g>,</l>
+                  <l>ni fynni ef ith gydwedd.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Ni ſafant ynfydion drw<g ref="char:cmbAbbrStroke">̄</g>g</l>
+                  <l>yn dyolwg pur-wedd:</l>
+                  <l>Ca<g ref="char:cmbAbbrStroke">̄</g>ſeiſt oll an-nuwiol wy<g ref="char:cmbAbbrStroke">̄</g>r,</l>
+                  <l>gweithred-wyrpo<g ref="char:cmbAbbrStroke">̄</g>b an wiredd.</l>
+               </lg>
+               <lg n="6">
+                  <pb facs="tcp:180916:9" rendition="simple:additions"/>
+                  <head>6</head>
+                  <l>Dife<g ref="char:cmbAbbrStroke">̄</g>thi rhai o<g ref="char:cmbAbbrStroke">̄</g>ll a wna<g ref="char:cmbAbbrStroke">̄</g>nt</l>
+                  <l>ag a ddoedant gelwydd:</l>
+                  <l>Yr Arglwydd ffieiddia fy<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>gw<g ref="char:cmbAbbrStroke">̄</g>rgwaedlyd a'r twyllod-rydd.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Minne ddo<g ref="char:cmbAbbrStroke">̄</g>f ith du<g ref="char:cmbAbbrStroke">̄</g>y fy ne<g ref="char:cmbAbbrStroke">̄</g>r</l>
+                  <l>yn amlder dy drugaredd:</l>
+                  <l>Ag addolaf yn dy ofn</l>
+                  <l>ith deml ddofn ſancteidd-wedd.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>I'th gyfiawnder arwain fi,</l>
+                  <l>o achos ſi<g ref="char:cmbAbbrStroke">̄</g> 'ngelynion:</l>
+                  <l>Gwaſtadha<g ref="char:cmbAbbrStroke">̄</g> dy ffordd o'm blaen,</l>
+                  <l>(er a wnaen ynfydion)</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>Iniondeb iw ſafn nid aeth,</l>
+                  <l>llygreidiaeth yw ei ceudod:</l>
+                  <l>Ei gwddf ſy<g ref="char:cmbAbbrStroke">̄</g>dd agored fe<g ref="char:cmbAbbrStroke">̄</g>dd,</l>
+                  <l>gweniaith me<g ref="char:cmbAbbrStroke">̄</g>dd ei tafod.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>Duw diſtrywia hwynt ai chwant,</l>
+                  <l>ſyrthiant o'i cynghorion:</l>
+                  <l>Yn amlder ei cammau tynn,</l>
+                  <l>i'th erbyn gwrth-ryfelſon.</l>
+               </lg>
+               <lg n="11">
+                  <pb facs="tcp:180916:10" rendition="simple:additions"/>
+                  <head>11</head>
+                  <l>Dy-'mddiriedwyr llawenha<g ref="char:cmbAbbrStroke">̄</g>nt,</l>
+                  <l>ca<g ref="char:cmbAbbrStroke">̄</g>n-mo<g ref="char:cmbAbbrStroke">̄</g>lant di 'n dragywydd:</l>
+                  <l>Ca<g ref="char:cmbAbbrStroke">̄</g>r-wyr, d'enw orfoledd</l>
+                  <l>ynot, ei he<g ref="char:cmbAbbrStroke">̄</g>dd ai gorchudd.</l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>Cans ti Arglwydd graſuſlawn</l>
+                  <l>y cyfiawn a fendithi:</l>
+                  <l>A chredigrwydd cyuheſ-la<g ref="char:cmbAbbrStroke">̄</g>n</l>
+                  <l>fel tarian ef coroni.</l>
+               </lg>
+            </div>
+            <div n="6" type="Psalm">
+               <head>Pſal. 6.</head>
+               <lg>
+                  <l>NA cherydda fi Arglwydd</l>
+                  <l>yn dy lidiowgrwydd toſta:</l>
+                  <l>Ag (oth fawr drugaredd bid)</l>
+                  <l>fi yn dy li<g ref="char:cmbAbbrStroke">̄</g>d na choſpa.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Arglwydd wrthif trugarha<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>cans lleſca wyf a'r a<g ref="char:cmbAbbrStroke">̄</g>nwyd:</l>
+                  <l>Iacha<g ref="char:cmbAbbrStroke">̄</g> fi o<g ref="char:cmbAbbrStroke">̄</g> Arglwydd chwyrn</l>
+                  <l>cans f'eſcyrn a gyſtuddiwyd.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>A'm henaid a ddychrynnwyd nawr</l>
+                  <l>yn ddirfawr gann dy ofni:</l>
+                  <l>Tithe Arglwydd rho<g ref="char:cmbAbbrStroke">̄</g>lwr by<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>pa hy<g ref="char:cmbAbbrStroke">̄</g>d i'm poen-gyſtuddi.</l>
+               </lg>
+               <lg n="4">
+                  <pb facs="tcp:180916:10"/>
+                  <head>4</head>
+                  <l>Dychwel Arglwydd, tro<g ref="char:cmbAbbrStroke">̄</g> i'm plaid,</l>
+                  <l>a gwared f'enaid gwaele<g ref="char:cmbAbbrStroke">̄</g>dd:</l>
+                  <l>Iacha<g ref="char:cmbAbbrStroke">̄</g> fi o nenn hyd lawr</l>
+                  <l>er mwyn dy fawr drugaredd.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Cans yn-ny<g ref="char:cmbAbbrStroke">̄</g>dd Angau du<g ref="char:cmbAbbrStroke">̄</g>a</l>
+                  <l>nid oes go<g ref="char:cmbAbbrStroke">̄</g>ffa am danad:</l>
+                  <l>Ag yn y Be<g ref="char:cmbAbbrStroke">̄</g>dd gor-ddwfn hawl</l>
+                  <l>pwy ath fawl ar ga<g ref="char:cmbAbbrStroke">̄</g>niad.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Dyffygiais gann f'ochain fry<g ref="char:cmbAbbrStroke">̄</g>,</l>
+                  <l>fyng-wely gwna<g ref="char:cmbAbbrStroke">̄</g>f yn foddfa:</l>
+                  <l>Fy heilltion ddagrau bo<g ref="char:cmbAbbrStroke">̄</g>b no<g ref="char:cmbAbbrStroke">̄</g>s</l>
+                  <l>ſy 'a llif dros fyng-orweddfa.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Gann i<g ref="char:cmbAbbrStroke">̄</g>ng-ddigter arwa ga<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>fy lygad a dywyllod:</l>
+                  <l>Herwydd fy ho<g ref="char:cmbAbbrStroke">̄</g>ll elynnion</l>
+                  <l>fyngolwg llonn heneiddiodd.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>O ddiwrthif ciliwch ar fyrr</l>
+                  <l>oll weithred-wyr anwiredd:</l>
+                  <l>Cans yr Arglwydd clywodd ef</l>
+                  <l>fyng-riddfan le<g ref="char:cmbAbbrStroke">̄</g>f wylofedd.</l>
+               </lg>
+               <lg n="9">
+                  <pb facs="tcp:180916:11"/>
+                  <head>9</head>
+                  <l>Ef a glybu 'r Arglwydd da<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>fy neiſyfiad difri:</l>
+                  <l>Yr Arglwydd hefyd a fynn</l>
+                  <l>dderbyn fymhrudd-we<g ref="char:cmbAbbrStroke">̄</g>ddi.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>F'oll elynion gwradwyddir,</l>
+                  <l>trallodir hwynt yn ddirfawr:</l>
+                  <l>Dychwelir hwynt drwy gwilydd rhw<g ref="char:cmbAbbrStroke">̄</g>th</l>
+                  <l>yn ddiſymwth vn-awr.</l>
+               </lg>
+            </div>
+            <div type="Psalm">
+               <head>Pſal. 7.</head>
+               <lg>
+                  <l>ARglwydd fy nuw cly<g ref="char:cmbAbbrStroke">̄</g>w fy llais</l>
+                  <l>ymddiriedais ynot:</l>
+                  <l>Rhag f'erlid-wyr oll ar lle<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>gwared fi wyf eiddot.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Rhag iddo larpio fy enaid</l>
+                  <l>yn ſafnaid, fal lle<g ref="char:cmbAbbrStroke">̄</g>w rheibudd:</l>
+                  <l>Gann ei ſcythru ai rwygo</l>
+                  <l>pryd na byddo gwaredudd.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>F'arglwydd dduw y rwy 'n erfyn</l>
+                  <l>os gwneuthym hynn nai dybiaw:</l>
+                  <l>Od oes hefyd (niwed we<g ref="char:cmbAbbrStroke">̄</g>dd)</l>
+                  <l>anwiredd yn fy nwylaw.</l>
+               </lg>
+               <lg n="4">
+                  <pb facs="tcp:180916:11"/>
+                  <head>4</head>
+                  <l>O thelais ddrw<g ref="char:cmbAbbrStroke">̄</g>g ir ne<g ref="char:cmbAbbrStroke">̄</g>b oedd</l>
+                  <l>mewn he<g ref="char:cmbAbbrStroke">̄</g>ddoedd a mi 'n aros:</l>
+                  <l>Oni waredais rhai a'm</l>
+                  <l>gwrthnebent gam heb achos.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Gelyn f'enaid iddo bi<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>f'erlid a'm goddiwedd:</l>
+                  <l>Sathred fy mywyd i'r llawr,</l>
+                  <l>i'r llwch-lawr fyng-ogonedd.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Cyfod i'th ddi<g ref="char:cmbAbbrStroke">̄</g>g o<g ref="char:cmbAbbrStroke">̄</g> Arglwydd</l>
+                  <l>o herwydd lli<g ref="char:cmbAbbrStroke">̄</g>d gelynion:</l>
+                  <l>Ym-dderch, deffro droſo 'n ffe<g ref="char:cmbAbbrStroke">̄</g>ſt</l>
+                  <l>i'r farn orchmynneſt inion.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Felly oll gynlleidfaoedd</l>
+                  <l>y bobloedd ath amgylchant:</l>
+                  <l>Dychwel dithe er ei mwyn</l>
+                  <l>ith fwyn vchelder feddiant.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>'R-Arglwydd a farn bobl ri</l>
+                  <l>barn fi yn fyng-hyfiawnder:</l>
+                  <l>Ag yn o<g ref="char:cmbAbbrStroke">̄</g>l (lle deli go<g ref="char:cmbAbbrStroke">̄</g>f)</l>
+                  <l>ſydd ynof o berffeithder.</l>
+               </lg>
+               <lg n="9">
+                  <pb facs="tcp:180916:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:180916:13"/>
+                  <head>
+                     <note>
+                        <label type="milestone">
+                           <seg type="milestoneunit">part </seg>2</label>
+                        <hi>Yr Ail Rhann.</hi>
+                     </note> 9</head>
+                  <l>DArfydded drw<g ref="char:cmbAbbrStroke">̄</g>g an-nuwion,</l>
+                  <l>Cyfiownion cyfarwydda:</l>
+                  <l>Duw cyfiawn y Cal<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nnau</l>
+                  <l>a'r arennau chwilia.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>Fy amddiffin oll y ſy<g ref="char:cmbAbbrStroke">̄</g>dd</l>
+                  <l>beunydd yn-nuw cyfiawn:</l>
+                  <l>Cans ef yw iachawdur llonn</l>
+                  <l>y rhai o galonn iniawn.</l>
+               </lg>
+               <lg n="11">
+                  <head>11</head>
+                  <l>Y gwir-dduw gogoneddus</l>
+                  <l>ſydd euſtus farnudd cyfion:</l>
+                  <l>A duw beunydd wrth (rai ffo<g ref="char:cmbAbbrStroke">̄</g>l)</l>
+                  <l>anuwiol, y ſydd ddigllon.</l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>Oni ddychwel yn ei o<g ref="char:cmbAbbrStroke">̄</g>l</l>
+                  <l>annuwiol, Cle<g ref="char:cmbAbbrStroke">̄</g>dd a ho<g ref="char:cmbAbbrStroke">̄</g>ga:</l>
+                  <l>(Yn dra-ſeliad) parato<g ref="char:cmbAbbrStroke">̄</g>dd</l>
+                  <l>ag annelodd fw<g ref="char:cmbAbbrStroke">̄</g>a.</l>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <l>Gwnaeth yn barod (ar ei ſto<g ref="char:cmbAbbrStroke">̄</g>l)</l>
+                  <l>iddo angeuol arfau:</l>
+                  <l>Yn erbyn erlid-wyr (tro<g ref="char:cmbAbbrStroke">̄</g>dd,)</l>
+                  <l>ef a weithiodd ſaethau.</l>
+               </lg>
+               <lg n="14">
+                  <pb facs="tcp:180916:13"/>
+                  <head>14</head>
+                  <l>Wele, ym-ddw<g ref="char:cmbAbbrStroke">̄</g>g anwiredd,</l>
+                  <l>ar gamwedd y beichiogodd:</l>
+                  <l>(Ag o'r diwedd oi fol-chwydd)</l>
+                  <l>ar gelwydd yr eſcorodd.</l>
+               </lg>
+               <lg n="15">
+                  <head>15</head>
+                  <l>Cloddiodd gor-bwll, trychodd ffo<g ref="char:cmbAbbrStroke">̄</g>s,</l>
+                  <l>(i aros cael fy-mhriddaw:)</l>
+                  <l>Syrthiodd ei hu<g ref="char:cmbAbbrStroke">̄</g>n (nid oedd waeth)</l>
+                  <l>i'r Diſtruw wnaeth ei ddwylaw.</l>
+               </lg>
+               <lg n="16">
+                  <head>16</head>
+                  <l>Ei anwiredd ar ei benn</l>
+                  <l>a ymchwel (penn fo 'mhena:)</l>
+                  <l>Ei gam-wedd ef (ai hoynyn)</l>
+                  <l>a ddeſcyn ar ei goppa.</l>
+               </lg>
+               <lg n="17">
+                  <head>17</head>
+                  <l>Yn o<g ref="char:cmbAbbrStroke">̄</g>l ei gyfiawnder rhw<g ref="char:cmbAbbrStroke">̄</g>ydd</l>
+                  <l>yr Arglwydd a glo<g ref="char:cmbAbbrStroke">̄</g>dforaf:</l>
+                  <l>A cha<g ref="char:cmbAbbrStroke">̄</g>n-mo<g ref="char:cmbAbbrStroke">̄</g>laf Enw llw<g ref="char:cmbAbbrStroke">̄</g>ydd</l>
+                  <l>yr Arglwydd goruchelaf.</l>
+               </lg>
+            </div>
+            <div n="8" type="Psalm">
+               <head>Pſal. 8.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>ARglwydd Io<g ref="char:cmbAbbrStroke">̄</g>r, mor ardderchawg</l>
+                  <l>yw d'enw rhawg yn holl-fyd!</l>
+                  <l>Rhwn a roddaiſt (dann warant)</l>
+                  <l>d'ogoniant vwch nefoedd-fy<g ref="char:cmbAbbrStroke">̄</g>d.</l>
+               </lg>
+               <lg n="2">
+                  <pb facs="tcp:180916:14"/>
+                  <head>2</head>
+                  <l>O enau rhai ba<g ref="char:cmbAbbrStroke">̄</g>ch ſugno</l>
+                  <l>peraiſt it go<g ref="char:cmbAbbrStroke">̄</g> yn nerthudd</l>
+                  <l>Achos dy ga<g ref="char:cmbAbbrStroke">̄</g>s: i oſtegu</l>
+                  <l>y gelyn du<g ref="char:cmbAbbrStroke">̄</g>, a'r dialudd.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Pann edrychwyf ar nefoedd</l>
+                  <l>rhai ydoedd waith dy fyſſedd:</l>
+                  <l>Sef, y lloer, a'r ſe<g ref="char:cmbAbbrStroke">̄</g>r (medraiſt)</l>
+                  <l>a ordeiniaiſt o'r dechredd.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Pa be<g ref="char:cmbAbbrStroke">̄</g>th yw dy<g ref="char:cmbAbbrStroke">̄</g>n (gwael-ddyn gau)</l>
+                  <l>it iw goffa<g ref="char:cmbAbbrStroke">̄</g>u ai wilied?</l>
+                  <l>A ma<g ref="char:cmbAbbrStroke">̄</g>b dy<g ref="char:cmbAbbrStroke">̄</g>n (dayaryn le<g ref="char:cmbAbbrStroke">̄</g>f)</l>
+                  <l>i ti ag e<g ref="char:cmbAbbrStroke">̄</g>f ymweled?</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Gwnaethoſt ef ychydig is</l>
+                  <l>go<g ref="char:cmbAbbrStroke">̄</g>r-is yr Angylion:</l>
+                  <l>Gogoniant a phrydferthwch</l>
+                  <l>rhoiſt i ddy<g ref="char:cmbAbbrStroke">̄</g>n llw<g ref="char:cmbAbbrStroke">̄</g>ch yn go<g ref="char:cmbAbbrStroke">̄</g>ron</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Ar weithredoedd dy ddwylo</l>
+                  <l>rhoiſt fo i arglwyddiaethu:</l>
+                  <l>Goſodaiſt bo<g ref="char:cmbAbbrStroke">̄</g>b pe<g ref="char:cmbAbbrStroke">̄</g>th ar a wnaed</l>
+                  <l>dann ei draed iw me<g ref="char:cmbAbbrStroke">̄</g>ddu.</l>
+               </lg>
+               <lg n="7">
+                  <pb facs="tcp:180916:14"/>
+                  <head>7</head>
+                  <l>Defed, ychen, oll a gaid,</l>
+                  <l>Maes-anifeiliaid llown-fyd:</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>Hediaid awyr, a phy<g ref="char:cmbAbbrStroke">̄</g>ſc mo<g ref="char:cmbAbbrStroke">̄</g>r</l>
+                  <l>ſy'n tramwy dyfn-fo<g ref="char:cmbAbbrStroke">̄</g>r hefyd.</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>O Arglwydd eyn Io<g ref="char:cmbAbbrStroke">̄</g>r enwawg</l>
+                  <l>mor ardderchawg ydwyd!</l>
+                  <l>A maint arderchowgrwydd dw<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>yw d'enw yn yr holl-fy<g ref="char:cmbAbbrStroke">̄</g>d!</l>
+               </lg>
+            </div>
+            <div n="9" type="Psalm">
+               <head>Pſal. 9.</head>
+               <lg>
+                  <l>CLo<g ref="char:cmbAbbrStroke">̄</g>dforaf yr Arglwydd Io<g ref="char:cmbAbbrStroke">̄</g>n</l>
+                  <l>a'm holl galon ddiau:</l>
+                  <l>(I'm by<g ref="char:cmbAbbrStroke">̄</g>w ddy<g ref="char:cmbAbbrStroke">̄</g>dd dy fo<g ref="char:cmbAbbrStroke">̄</g>li wna<g ref="char:cmbAbbrStroke">̄</g>f)</l>
+                  <l>mynegaf d'oll ryfeddau.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Ynot Arglwydd llawen ha<g ref="char:cmbAbbrStroke">̄</g>f,</l>
+                  <l>a gorfoleddaf (iown-dw<g ref="char:cmbAbbrStroke">̄</g>:)</l>
+                  <l>A beunydd dduw goruchaf</l>
+                  <l>i canaf ith la<g ref="char:cmbAbbrStroke">̄</g>n enw.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Tra ddychwelid (gau-ddynion)</l>
+                  <l>fyng-elynion iw gwrth-o<g ref="char:cmbAbbrStroke">̄</g>l:</l>
+                  <l>Llithrant, difeir hwynt (lle 'r a<g ref="char:cmbAbbrStroke">̄</g>en)</l>
+                  <l>oth flaen fyng-wi<g ref="char:cmbAbbrStroke">̄</g>r-dduw graſol.</l>
+               </lg>
+               <lg n="4">
+                  <pb facs="tcp:180916:15"/>
+                  <head>4</head>
+                  <l>Cans gwnaethoſt yn dda<g ref="char:cmbAbbrStroke">̄</g> fy marn,</l>
+                  <l>a'm matter iown-farn iniawn:</l>
+                  <l>'Steddaiſt ar orſedd-fainck fu<g ref="char:cmbAbbrStroke">̄</g>dd,</l>
+                  <l>o<g ref="char:cmbAbbrStroke">̄</g> Arglwydd farnudd cyfiawn.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Ceryddaiſt Genhedloedd ffo<g ref="char:cmbAbbrStroke">̄</g>l,</l>
+                  <l>yr annuwiol deſtruwiaut:</l>
+                  <l>Ei henw hwynt o<g ref="char:cmbAbbrStroke">̄</g>ll ar o<g ref="char:cmbAbbrStroke">̄</g>l</l>
+                  <l>byth bythol a ddi-leaiſt.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Ha<g ref="char:cmbAbbrStroke">̄</g> elyn, darfu ddiniſtr ddŷdd</l>
+                  <l>yn dragywydd weithian:</l>
+                  <l>Diwreiddiaut ddinaſoedd wla<g ref="char:cmbAbbrStroke">̄</g>d,</l>
+                  <l>hwynt ai coffa<g ref="char:cmbAbbrStroke">̄</g>d darfuan.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Ef a erys yr Arglwydd</l>
+                  <l>yn dragywydd waſtad:</l>
+                  <l>Ef a barato<g ref="char:cmbAbbrStroke">̄</g>dd ei fainck</l>
+                  <l>orſedd-fainck i wi<g ref="char:cmbAbbrStroke">̄</g>r-farniad.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>Cans ef a farn y by<g ref="char:cmbAbbrStroke">̄</g>d derr</l>
+                  <l>mewn cyfiawnder wir-deb:</l>
+                  <l>Efe a farn y bobloedd</l>
+                  <l>(ai gweithoedd) mewn iniondeb.</l>
+               </lg>
+               <lg n="9">
+                  <pb facs="tcp:180916:15"/>
+                  <head>9</head>
+                  <l>Hefyd e fŷdd yr Arglwydd</l>
+                  <l>amddiffin rhw<g ref="char:cmbAbbrStroke">̄</g>ydd i'r truan:</l>
+                  <l>A phri<g ref="char:cmbAbbrStroke">̄</g>f-nawddfa fy<g ref="char:cmbAbbrStroke">̄</g>dd mewn prŷd,</l>
+                  <l>ſef, mewn cyfyng-fy<g ref="char:cmbAbbrStroke">̄</g>d gwynfan.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>A'r rhai adwaenant D-'Enw</l>
+                  <l>yno<g ref="char:cmbAbbrStroke">̄</g>t nhw <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mddiriedant:</l>
+                  <l>Cans ni 'dewa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt o<g ref="char:cmbAbbrStroke">̄</g> Arglwydd</l>
+                  <l>y rhai ath hylwydd-geiſiant.</l>
+               </lg>
+               <lg n="11">
+                  <head>
+                     <note>
+                        <label type="milestone">
+                           <seg type="milestoneunit">part </seg>2</label>
+                        <hi>Yr Ail Rhann.</hi>
+                     </note> 11</head>
+                  <l>MÔlwch yr Arglwydd (dann go<g ref="char:cmbAbbrStroke">̄</g>)</l>
+                  <l>hwn fy 'n preſſwylio Sion:</l>
+                  <l>A mynegwch i'r bobloedd</l>
+                  <l>ei weit, redoedd tirion.</l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>Cans pann ofyn ef am waed</l>
+                  <l>ddaed y cofia 'm danynt</l>
+                  <l>Ag ef nid anghofia waedd</l>
+                  <l>y tlodion (maedd) lle 'r ydynt.</l>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <l>Trugarha<g ref="char:cmbAbbrStroke">̄</g> wrthif Arglwydd,</l>
+                  <l>fy-nerchafudd o angau:</l>
+                  <l>Gwe<g ref="char:cmbAbbrStroke">̄</g>l fy mlinder (arwa do<g ref="char:cmbAbbrStroke">̄</g>n)</l>
+                  <l>gann fy 'nghaſeion innau.</l>
+               </lg>
+               <lg n="14">
+                  <pb facs="tcp:180916:16"/>
+                  <head>14</head>
+                  <l>Fel mynegwyf d'o<g ref="char:cmbAbbrStroke">̄</g>ll foliant</l>
+                  <l>ym-mhyrth dy ſant Merch Sion:</l>
+                  <l>Ag y llawenychwyf (ffraeth)</l>
+                  <l>yn d'iechydwriaeth rhadlon.</l>
+               </lg>
+               <lg n="15">
+                  <head>15</head>
+                  <l>Soddai'r Cenhedloedd vn-no<g ref="char:cmbAbbrStroke">̄</g>s</l>
+                  <l>yn y ffo<g ref="char:cmbAbbrStroke">̄</g>s a wnaethant:</l>
+                  <l>Ei troed ei hu<g ref="char:cmbAbbrStroke">̄</g>n a ddaliwyd</l>
+                  <l>yn y rhwyd a guddiaſant.</l>
+               </lg>
+               <lg n="16">
+                  <head>16</head>
+                  <l>Adweinir Arglwydd iown-farn,</l>
+                  <l>cans ef a wnaeth farn ero:</l>
+                  <l>Yr an-nuwiol a faglwyd</l>
+                  <l>yn rhwyd-weithred ei ddwylo.</l>
+               </lg>
+               <lg n="17">
+                  <head>17</head>
+                  <l>Y rhai oll drygionus (gern)</l>
+                  <l>i vffern a ymchwelant:</l>
+                  <l>Sef, yr holl Genhedloedd ryw</l>
+                  <l>y gwir-dduw a anghofiant.</l>
+               </lg>
+               <lg n="18">
+                  <head>18</head>
+                  <l>Nid anghofir y tlawd by<g ref="char:cmbAbbrStroke">̄</g>th</l>
+                  <l>(yn nuw ſy 'n ſy<g ref="char:cmbAbbrStroke">̄</g>th ymddiriaid)</l>
+                  <l>Diau by<g ref="char:cmbAbbrStroke">̄</g>th ni chollir chwaith</l>
+                  <l>gobaith y trueniaid.</l>
+               </lg>
+               <lg n="19">
+                  <pb facs="tcp:180916:16"/>
+                  <head>19</head>
+                  <l>Cyfod Arglwydd gogoned,</l>
+                  <l>na orfydded dy<g ref="char:cmbAbbrStroke">̄</g>n-fa<g ref="char:cmbAbbrStroke">̄</g>b:</l>
+                  <l>Y Cenhedloedd (caeth) barner</l>
+                  <l>hwynt ger dy fronn duw arab.</l>
+               </lg>
+               <lg n="20">
+                  <head>20</head>
+                  <l>Goſod Arglwydd arnynt ofn,</l>
+                  <l>(do<g ref="char:cmbAbbrStroke">̄</g>d ddwyf-ofn fel dychrynnynt:)</l>
+                  <l>Gwybydded caeth-genhedloedd</l>
+                  <l>mai dynnion priddoedd ydynt.</l>
+               </lg>
+            </div>
+            <div n="10" type="Psalm">
+               <head>Pſal. 10.</head>
+               <lg>
+                  <l>ARglwydd pam y ſefi o bell?</l>
+                  <l>o hir-bell yr ymguddi?</l>
+                  <l>Yn yr amſer pann ydym</l>
+                  <l>mewn tra-llym gyfyngderi?</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Yr annuwiol mewn balch li<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>a erlid y tlawd truan:</l>
+                  <l>Dalier hwynt iw dichellion</l>
+                  <l>(cyfrwyſion) a ddychmygan.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Cans yr An-nuw a ffroſtiodd</l>
+                  <l>wrth wyllys fodd ei galon:</l>
+                  <l>A'r cybydd ym-fendithiodd:</l>
+                  <l>di-ſtyrodd fowr-dduw cyfion.</l>
+               </lg>
+               <lg n="4">
+                  <pb facs="tcp:180916:17"/>
+                  <head>4</head>
+                  <l>Yr An-nuw gann ei falchder</l>
+                  <l>ni chais hyder arddu vmau:</l>
+                  <l>Nid ydiw duw, (aeth ar goll)</l>
+                  <l>yn ei holl feddyliau.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Ei ffyrdd ef bo<g ref="char:cmbAbbrStroke">̄</g>b awr ſy fli<g ref="char:cmbAbbrStroke">̄</g>n,</l>
+                  <l>vchel yw rhi<g ref="char:cmbAbbrStroke">̄</g>n dy farnau</l>
+                  <l>Oi olwg ef: chwy<g ref="char:cmbAbbrStroke">̄</g>th yn dynn</l>
+                  <l>Yn erbyn ei elynnau.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Doedodd yn ei galon chwydd</l>
+                  <l>ni'm ſmu<g ref="char:cmbAbbrStroke">̄</g>dir (herwydd gwall-faeth:)</l>
+                  <l>Cans ni byddaf mewn dryg-fyd</l>
+                  <l>ge<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hedl-fy<g ref="char:cmbAbbrStroke">̄</g>d a chen<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>edlaeth.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Ei enau ſy 'n llawn melltith,</l>
+                  <l>a dichell chwi<g ref="char:cmbAbbrStroke">̄</g>th, a thwylledd:</l>
+                  <l>Taun ei dafod hefyd mae</l>
+                  <l>camweddae ag anwiredd.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>Mae ef yn ei eiſteddfa</l>
+                  <l>yng-hynllw<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nfa heolydd:</l>
+                  <l>Mewn cilfach lla<g ref="char:cmbAbbrStroke">̄</g>dd wirioniaid,</l>
+                  <l>ar dlawd ei lygaid dre<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n-fydd.</l>
+               </lg>
+               <lg n="9">
+                  <pb facs="tcp:180916:17"/>
+                  <head>9</head>
+                  <l>Ef cynllwyn mewn dirgelau</l>
+                  <l>fel lle<g ref="char:cmbAbbrStroke">̄</g>w iw ffau, bwriadu</l>
+                  <l>Bydd i dreiſio dyn go-dlawd:</l>
+                  <l>trais dlawd, iw rwyd oi dy<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nu.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>Ef a ymgyſtuddia (<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>wng)</l>
+                  <l>ag ymoſtwng (dwyll-fyrn)</l>
+                  <l>Fal y cwympo tyrfa haid</l>
+                  <l>trueniaid myſc ei gedyrn.</l>
+               </lg>
+               <lg n="11">
+                  <head>
+                     <note>
+                        <label type="milestone">
+                           <seg type="milestoneunit">part </seg>2</label>
+                        <hi>Yr Ail Rhann.</hi>
+                     </note>11</head>
+                  <l>EF yn ei galon a ddoedodd</l>
+                  <l>anghofiodd duw fy-nrygwaith:</l>
+                  <l>Cuddiodd ei wyneb (dann ge<g ref="char:cmbAbbrStroke">̄</g>l)</l>
+                  <l>byth ni we<g ref="char:cmbAbbrStroke">̄</g>l (dwrn dif<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aith.)</l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>Cyfod Arglwydd dduw, (na tha<g ref="char:cmbAbbrStroke">̄</g>w)</l>
+                  <l>dercha dy la<g ref="char:cmbAbbrStroke">̄</g>w (amddiffin:)</l>
+                  <l>Na anghofia Arglwydd Io<g ref="char:cmbAbbrStroke">̄</g>n</l>
+                  <l>dy bobl dlodion werin.</l>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <l>Pa ham y ceiff yr An-nuw</l>
+                  <l>gaol<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> duw? gann ddoedyd</l>
+                  <l>Yn ei galonn (waela fri)</l>
+                  <l>nad ym-ofynni (fyth-fyd.)</l>
+               </lg>
+               <lg n="14">
+                  <pb facs="tcp:180916:18"/>
+                  <head>14</head>
+                  <l>Gwelaiſt an-wiredd a cham,</l>
+                  <l>ath ddwylo ta<g ref="char:cmbAbbrStroke">̄</g>l am gabledd:</l>
+                  <l>Tlawd, ei obaith arnat ga<g ref="char:cmbAbbrStroke">̄</g>d,</l>
+                  <l>i'mddifad w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yt gymorthedd.</l>
+               </lg>
+               <lg n="15">
+                  <head>15</head>
+                  <l>Torr fraich yr annuw ſtrywys</l>
+                  <l>a'r drygionus enwir:</l>
+                  <l>Cais dra<g ref="char:cmbAbbrStroke">̄</g>w ei ddrygioni fe</l>
+                  <l>nis cei (ei le<g ref="char:cmbAbbrStroke">̄</g> nai fro-dir.)</l>
+               </lg>
+               <lg n="16">
+                  <head>16</head>
+                  <l>Yr Arglwydd ſydd frenin by<g ref="char:cmbAbbrStroke">̄</g>th,</l>
+                  <l>ag oeſ-fyth yn dragywydd:</l>
+                  <l>Diniſtriwyd cenhedloed (fre<g ref="char:cmbAbbrStroke">̄</g>f)</l>
+                  <l>oi ran-dir ef ai wle<g ref="char:cmbAbbrStroke">̄</g>dydd.</l>
+               </lg>
+               <lg n="17">
+                  <head>17</head>
+                  <l>Ti a glywaiſt Arglwydd da<g ref="char:cmbAbbrStroke">̄</g>d</l>
+                  <l>ddamuniad tlodion (waeled:)</l>
+                  <l>Cweiria di ei calon hwynt,</l>
+                  <l>dy glu<g ref="char:cmbAbbrStroke">̄</g>ſt arnynt gwrandawed.</l>
+               </lg>
+               <lg n="18">
+                  <head>18</head>
+                  <l>I farnu'r ymddifad, a'r</l>
+                  <l>tlawd hi<g ref="char:cmbAbbrStroke">̄</g>r-alar bellach:</l>
+                  <l>Fel na pha<g ref="char:cmbAbbrStroke">̄</g>ro dy<g ref="char:cmbAbbrStroke">̄</g>n ar o<g ref="char:cmbAbbrStroke">̄</g>l</l>
+                  <l>dayarol, mor ofn mwyach.</l>
+               </lg>
+            </div>
+            <div n="11" type="Psalm">
+               <pb facs="tcp:180916:18"/>
+               <head>Pſal. 11.</head>
+               <lg>
+                  <l>YN yr Arglwydd (a'm ho<g ref="char:cmbAbbrStroke">̄</g>ll gre<g ref="char:cmbAbbrStroke">̄</g>d)</l>
+                  <l>wyf yn ymddiried (ddi-gryn)</l>
+                  <l>Pa ddoedwch wrth fy enaid pru<g ref="char:cmbAbbrStroke">̄</g>dd</l>
+                  <l>i'ch mynydd he<g ref="char:cmbAbbrStroke">̄</g>d fel deryn?</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Wele y drygionus bla<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>ei bw<g ref="char:cmbAbbrStroke">̄</g>a annelaſant,</l>
+                  <l>Tu a'r llinin (cadarn crau)</l>
+                  <l>ei ſaethau paratoyſant:</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>I ſeythu mewn dirgelion</l>
+                  <l>y rhai o galon iniawn.</l>
+                  <l>Cans y ſeiliau 'n ddiniſtraeth:</l>
+                  <l>pa be<g ref="char:cmbAbbrStroke">̄</g>th a wnaeth y cyfiawn?</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Duw ſy'n ei Sanct-Deml dda<g ref="char:cmbAbbrStroke">̄</g>,</l>
+                  <l>Ne<g ref="char:cmbAbbrStroke">̄</g>f yw gorſeddfa 'r Arglwydd:</l>
+                  <l>Gwe<g ref="char:cmbAbbrStroke">̄</g>l ei lygaid dlawd (aifra<g ref="char:cmbAbbrStroke">̄</g>w:)</l>
+                  <l>ei 'mrantau'n chwiliaw dy<g ref="char:cmbAbbrStroke">̄</g>n-wy<g ref="char:cmbAbbrStroke">̄</g>dd.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Yr Arglwydd y cyfiawn pra<g ref="char:cmbAbbrStroke">̄</g>w:</l>
+                  <l>ond ca<g ref="char:cmbAbbrStroke">̄</g>s dra<g ref="char:cmbAbbrStroke">̄</g>w gann ei enaid</l>
+                  <l>Y drygionus, a'r hwn fo<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>ho<g ref="char:cmbAbbrStroke">̄</g>ff ganddo yr an-wiriaid.</l>
+               </lg>
+               <lg n="6">
+                  <pb facs="tcp:180916:19"/>
+                  <head>6</head>
+                  <l>Ar yr An-nuwolion gau</l>
+                  <l>glawia faglau: ta<g ref="char:cmbAbbrStroke">̄</g>n yſſo<g ref="char:cmbAbbrStroke">̄</g>l,</l>
+                  <l>Brwmſtan, ag yſtormus-wŷnt,</l>
+                  <l>iddynt fydd rhann ei phi<g ref="char:cmbAbbrStroke">̄</g>ol.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Cans yr Arglwydd cyfiawn gwa<g ref="char:cmbAbbrStroke">̄</g>r</l>
+                  <l>fŷth a ga<g ref="char:cmbAbbrStroke">̄</g>r Gyfiawnder:</l>
+                  <l>Ai wyneb-pry<g ref="char:cmbAbbrStroke">̄</g>d tirion iawn</l>
+                  <l>a genfydd rhai iniawn-ber.</l>
+               </lg>
+            </div>
+            <div n="12" type="Psalm">
+               <head>Pſal. 12.</head>
+               <lg>
+                  <l>A Chub ni o<g ref="char:cmbAbbrStroke">̄</g> Arglwydd cu<g ref="char:cmbAbbrStroke">̄</g>,</l>
+                  <l>cans darfu rhai trugarog:</l>
+                  <l>Herwydd pallodd ffyddlonion</l>
+                  <l>o bli<g ref="char:cmbAbbrStroke">̄</g>th dyn-feibion geuog.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Doedant wa<g ref="char:cmbAbbrStroke">̄</g>g-oferedd lu<g ref="char:cmbAbbrStroke">̄</g>n</l>
+                  <l>bo<g ref="char:cmbAbbrStroke">̄</g>b u<g ref="char:cmbAbbrStroke">̄</g>n wrth ei gymydog,</l>
+                  <l>A gwenhieith-gar wefus fant:</l>
+                  <l>(lle'r a<g ref="char:cmbAbbrStroke">̄</g>nt) a chalon ddyblog.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Torred yr Arglwydd yn glau</l>
+                  <l>holl wefuſau gwenhieithus:</l>
+                  <l>A'r tafod a ddoedo 'n hy<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>fawrhydry (rhy-falch euſus.)</l>
+               </lg>
+               <lg n="4">
+                  <pb facs="tcp:180916:19"/>
+                  <head>4</head>
+                  <l>Y rhai ddoedant (warr-ſy<g ref="char:cmbAbbrStroke">̄</g>th no<g ref="char:cmbAbbrStroke">̄</g>d)</l>
+                  <l>a'n tafod y gorfyddwn:</l>
+                  <l>Gallwn ddoedyd a fynnom,</l>
+                  <l>pwy'n benn arnom a ofnwn?</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Am anrhaith cyſtuddus blaid,</l>
+                  <l>ag vchenaid y tlodion,</l>
+                  <l>Codaf me<g ref="char:cmbAbbrStroke">̄</g>dd duw: rhof yn rhy<g ref="char:cmbAbbrStroke">̄</g>dd</l>
+                  <l>rhwn beunydd a faglaſon.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Geiriau duw y<g ref="char:cmbAbbrStroke">̄</g>nt eiriau pu<g ref="char:cmbAbbrStroke">̄</g>r,</l>
+                  <l>fel arian a gu<g ref="char:cmbAbbrStroke">̄</g>r-goethid,</l>
+                  <l>Mewn ffwrn bri<g ref="char:cmbAbbrStroke">̄</g>dd (da<g ref="char:cmbAbbrStroke">̄</g>n-boeth-liw faith)</l>
+                  <l>yn yr honn ſeith-waith pu<g ref="char:cmbAbbrStroke">̄</g>rid.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>R-eiddot Arglwydd cedwi hwynt</l>
+                  <l>(rhag rhuthr-hynt dynion di-lwydd:)</l>
+                  <l>cedwi hwynt, (dragywydd faeth)</l>
+                  <l>rhag honn-Genhedlaeth efrydd.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>Amgylch-ogylch (Satan-blant)</l>
+                  <l>y rhodiant an-nuwolion:</l>
+                  <l>Pann dderchefir (di-ra<g ref="char:cmbAbbrStroke">̄</g>s ga<g ref="char:cmbAbbrStroke">̄</g>d)</l>
+                  <l>gwartha<g ref="char:cmbAbbrStroke">̄</g>d fy<g ref="char:cmbAbbrStroke">̄</g>dd i faib-dynion.</l>
+               </lg>
+            </div>
+            <div n="13" type="Psalm">
+               <pb facs="tcp:180916:20"/>
+               <head>Pſal. 13.</head>
+               <lg>
+                  <l>PA hy<g ref="char:cmbAbbrStroke">̄</g>d i'm angho<g ref="char:cmbAbbrStroke">̄</g>fi Arglwydd?</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i 'n dragywydd weithian?</l>
+                  <l>Pa hy<g ref="char:cmbAbbrStroke">̄</g>d cuddi (eglurdeb)</l>
+                  <l>rhagof dy wyneb eirian?</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Pa hy<g ref="char:cmbAbbrStroke">̄</g>d blinir fyng-halon,</l>
+                  <l>gynghorion tra feddyliaf?</l>
+                  <l>Pa hy<g ref="char:cmbAbbrStroke">̄</g>d y derchefir (gwy<g ref="char:cmbAbbrStroke">̄</g>n)</l>
+                  <l>fyng-arw-elyn arnaf?</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Edrych, o<g ref="char:cmbAbbrStroke">̄</g> Arglwydd, a chlŷw</l>
+                  <l>fi, fy nuw: goleua</l>
+                  <l>Fy llygaid, rhag imi bo</l>
+                  <l>hu<g ref="char:cmbAbbrStroke">̄</g>no yn angau du<g ref="char:cmbAbbrStroke">̄</g>a.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Rhag doedyd o'm gelyn lais,</l>
+                  <l>gorchfygais ef: o herwydd</l>
+                  <l>Fyng-wrthneb-wyr llawenha<g ref="char:cmbAbbrStroke">̄</g>nt</l>
+                  <l>os llithrant dra<g ref="char:cmbAbbrStroke">̄</g>w fy ſodlydd.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Fy-'mddiried i'th drugaredd ſydd,</l>
+                  <l>fy llawenydd i'th iechyd:</l>
+                  <l>I Dduw am ſynnio arnaf</l>
+                  <l>ca<g ref="char:cmbAbbrStroke">̄</g>naf, ca<g ref="char:cmbAbbrStroke">̄</g>naf dragwydd-fyd.</l>
+               </lg>
+            </div>
+            <div n="1" type="Psalm">
+               <pb facs="tcp:180916:4"/>
+               <head>
+                  <hi>Pſal.</hi> 1.</head>
+               <p>GWyn ei fyd y gwr ni rodiodd yng<g ref="char:EOLhyphen"/>hyngor yr anuwolion ac ni ſafodd yn ffordd pechaduriaid, ac nid eiſteddodd yn eiſtedd<g ref="char:EOLhyphen"/>fa gwatwar-wyr:</p>
+               <p n="2">2 Onid bod ei ew<g ref="char:EOLhyphen"/>yllys ef yng-hyfraith yr Arglwydd: a myfyrio o honaw yn ei gyfraith ef ddydd a nôs.</p>
+               <p n="3">3 Canys efe a fydd fel prenn wedi ei bla<g ref="char:EOLhyphen"/>nnu ar lann dyfroedd, yr hwn a rydd ei ffrw<g ref="char:EOLhyphen"/>yth yn ei bryd: a'i dda<g ref="char:EOLhyphen"/>len ni wywa, a pha beth bynnac a wnêl, efe a lwydda.</p>
+               <p n="4">4 Nid felly y bydd yr annuwiol, onid fel mân-vs yr hwn a chwâl y gwynt ymmaith oddi ar wyneb y ddaiar.</p>
+               <p n="5">5 Am hynny yr ann<g ref="char:EOLhyphen"/>uwolion ni ſafant yn y farn, na'r pechaduriaid yng-hynulleidfa y rhai cyfiawn<g ref="char:punc">▪</g>
+               </p>
+               <pb facs="tcp:180916:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <p n="6">
+                  <pb facs="tcp:180916:6" rendition="simple:additions"/>6 Canys yr arglwydd a edwyn ffordd y rhai cyfiawn, a ffordd yr annuwolion a ddife<g ref="char:EOLhyphen"/>thir.</p>
+            </div>
+            <div n="2" type="Psalm">
+               <head>
+                  <hi>Pſal.</hi> 2.</head>
+               <p>PA ham y terfyſca y cenhedloedd? ac y bwriâda y bobloedd yn ofer?</p>
+               <p n="2">2 Y mae brenhî<g ref="char:EOLhyphen"/>noedd y ddaiar yn codi i fynu, a'r pennaethiaid yn ymgynghori yng<g ref="char:EOLhyphen"/>hyd, yn erbyn yr Argl<g ref="char:EOLhyphen"/>wydd, ac yn erbyn ei Griſt ef.</p>
+               <p n="3">3 Drylliwn eu rhw<g ref="char:EOLhyphen"/>ymau hwy: a thaflwn eu rheffynnau oddi wrthym.</p>
+               <pb facs="tcp:180916:6" rendition="simple:additions"/>
+               <p n="4">4 Yr hwn ſydd yn preſſwylio yn y nefo<g ref="char:EOLhyphen"/>edd a chwardd: yr Ar<g ref="char:EOLhyphen"/>glwydd au gwatwar hwynt.</p>
+               <p n="5">5 Yna y llefara efe wrthynt yn ei lîd, ac yn ei ddigllonrwydd y dy<g ref="char:EOLhyphen"/>chryna efe hwynt.</p>
+               <p n="6">6 Minne a oſodai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fy Mrenin ar Sion fy mynydd ſanctaidd.</p>
+               <p n="7">7 Mynegaf y dde<g ref="char:EOLhyphen"/>ddf yr hon a ddywe<g ref="char:EOLhyphen"/>dodd yr Arglwydd wrthif: fy Mab ydwyt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i, myfi heddyw a'th genhedlais.</p>
+               <p n="8">8 Gofyn i mi, a rho<g ref="char:EOLhyphen"/>ddaf y cenhedloedd yn etifeddiaeth i ti: a therfynau y ddaiar i'th feddiant.</p>
+               <pb facs="tcp:180916:7"/>
+               <p n="9">9 Briwi hwynt a gwialen haiarn, maluri hwynt fel lleſtr pridd.</p>
+               <p n="10">10 Gan hynny'r awr hon ô frenhinoedd byddwch ſynhwyrol, barn-wyr y dda<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar cym<g ref="char:EOLunhyphen"/>merwch ddyſc.</p>
+               <p n="11">11 Gwaſanaethwch yr Arglwydd mewn ofn: ac ymlawenhe<g ref="char:EOLhyphen"/>wch mewn dychryn.</p>
+               <p n="12">12 Cuſſênwch y mâb rhag iddo ddigio, a'ch difetha chwi o'r ffordd, pan gynneuo e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lîd et ddim: gwyn eu byd pawb a ymddyriedant ynddo ef.</p>
+            </div>
+            <div n="3" type="Psalm">
+               <head>
+                  <hi>Pſal.</hi> 3.</head>
+               <p>ARglwydd mor aml yw fy nhrallod-wyr! llawer ſy yn codi i'm herbyn.</p>
+               <pb facs="tcp:180916:7"/>
+               <p n="2">2 Llawer ſy yn dywe<g ref="char:EOLhyphen"/>dyd am fy enaid, nid oes iechydw riaeth iddo yn ei Dduw. <hi>Selah.</hi>
+               </p>
+               <p n="3">3 Tithe Arglwydd ydwyt darian i mi: fyng-ogoniant, a der<g ref="char:EOLhyphen"/>chafudd fy mhenn.</p>
+               <p n="4">4 A'm llef y gelwais ar yr Arglwydd, ac efe a'm clybu o'i fynydd ſanctaidd. <hi>Selah.</hi>
+               </p>
+               <p n="5">5 Mi a orweddais, ac a gyſcais, ac a dde<g ref="char:EOLhyphen"/>ffroais: canis yr Argl<g ref="char:EOLhyphen"/>wydd a'm cynhali<g ref="char:EOLhyphen"/>odd.</p>
+               <p n="6">6 Nid ofnaf fyrddi<g ref="char:EOLhyphen"/>wn o bobl: y rhai o amgylch a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yn oſodâ<g ref="char:EOLhyphen"/>ſant i'm herbyn.</p>
+               <pb facs="tcp:180916:8"/>
+               <p n="7">7 Cyfod Arglwydd, achub fi fy Nuw, canys tarewaiſt fy holl elynn<g ref="char:EOLhyphen"/>ion ar garr yr ên: torr<g ref="char:EOLhyphen"/>aiſt ddannedd yr annu<g ref="char:EOLhyphen"/>wolion.</p>
+               <p n="8">8 Iechydwriaeth ſydd eiddo 'r Argl<g ref="char:EOLhyphen"/>wydd: dy fendith ſydd ar dy bobl. <hi>Selah.</hi>
+               </p>
+            </div>
+            <div n="4" type="Psalm">
+               <head>
+                  <hi>Pſal.</hi> 4.</head>
+               <p>GWrando fi pan al<g ref="char:EOLhyphen"/>wyf ô Dduw fyng<g ref="char:EOLhyphen"/>hyfiawnder, mewn cy<g ref="char:EOLhyphen"/>fyngder yr ehengaiſt arnaf: trugarhâ wrthif, ac erglyw fyng-weddi.</p>
+               <p n="2">2 O feibion dynni<g ref="char:EOLhyphen"/>on pa hyd y troiwch fyng-ogoniant yn wa<g ref="char:EOLhyphen"/>rth? yr hoffwch wêgi, ac yr argeiſiwch gel<g ref="char:EOLhyphen"/>wydd? <hi>Selah.</hi>
+               </p>
+               <p n="3">3 Gwybyddwch hefyd i'r Arglwydd e<g ref="char:EOLhyphen"/>thol y duwiol iddo ei hun: yr Arglwydd a wrendu pan alwyf ar<g ref="char:EOLhyphen"/>no.</p>
+               <pb facs="tcp:180916:8"/>
+               <p n="4">4 Ofnwch, ac na phechwch, meddyli<g ref="char:EOLhyphen"/>wch yn eich calon ar eich gwely, a thewch. <hi>Selah.</hi>
+               </p>
+               <p n="5">5 Aberthwch e<g ref="char:EOLhyphen"/>byrth cyfiawnder, a go<g ref="char:EOLhyphen"/>be<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hiwch yn yr Argl<g ref="char:EOLhyphen"/>wydd.</p>
+               <p n="6">6 Llaweroedd ſy yn dywedyd, pwy a dden<g ref="char:EOLhyphen"/>gys i ni ddaioni? Arg<g ref="char:EOLhyphen"/>lwydd dercha arnom lewyrch dy wyneb.</p>
+               <p n="7">7 Rhoddaiſt lawe<g ref="char:EOLhyphen"/>nydd yn fyng-halon, er pan yr amlhâodd eu hyd, ai gwin ai holew hwynt.</p>
+               <p n="8">8 Mewn heddwch hefyd y gorweddaf, ac yr hûnaf: canys ti Arg<g ref="char:EOLhyphen"/>lwydd yn vnic a'm cyfleaiſt mewn diogel<g ref="char:EOLhyphen"/>wch.</p>
+            </div>
+            <div n="5" type="Psalm">
+               <pb facs="tcp:180916:9" rendition="simple:additions"/>
+               <head>
+                  <hi>Pſal.</hi> 5.</head>
+               <p>GWrando fyng-eiri<g ref="char:EOLhyphen"/>au Arglwydd: deall fy myfyrdod.</p>
+               <p n="2">2 Erglyw ar lêf fyng-waedd, fy Mre<g ref="char:EOLhyphen"/>nin, a'm Duw: canys arnat y gweddiaf.</p>
+               <p n="3">3 Yn foreu Argl<g ref="char:EOLhyphen"/>wydd y clywi fydlêf yn foreu y cyfeiriat attat, ac y diſgwiliaf.</p>
+               <p n="4">4 O herwydd nad wyt ti Dduw yn ewy<g ref="char:EOLhyphen"/>llyſio anwiredd: drwg ni thrig gyd â thi.</p>
+               <p n="5">5 Ynfydion ni ſa<g ref="char:EOLhyphen"/>fant yn dy olwg: caſe<g ref="char:EOLhyphen"/>aiſt holl weithred-wyr anwiredd.</p>
+               <pb facs="tcp:180916:9" rendition="simple:additions"/>
+               <p n="6">6 Difêthi y rhai a ddy<g ref="char:EOLhyphen"/>wedant gelwydd: yr Arglwydd a ffieiddia y gwr gwaedlyd, a'r twy<g ref="char:EOLhyphen"/>llodrus.</p>
+               <p n="7">7 A minne a ddeuaf i'th duy di yn amlder dy drugaredd: ac a ad<g ref="char:EOLhyphen"/>dolaf tu a'th Deml ſan<g ref="char:EOLhyphen"/>ctaidd yn dy ofn di.</p>
+               <p n="8">8 Arglwydd arwain fi yn dy gyfiawnder o achos fyng-elynnion: a gwaſtadhâ dy ffordd o'm blaen.</p>
+               <p n="9">9 Canys nid oes in<g ref="char:EOLhyphen"/>iondeb yn eu genau, eu ceudod ſydd lwgredig<g ref="char:EOLhyphen"/>aeth, bedd agored yw eu gwddf hwynt, gwe<g ref="char:EOLhyphen"/>niaithant ai tafod.</p>
+               <p n="10">10 Deſtruwia hw<g ref="char:EOLhyphen"/>ynt ô Dduw, ſyrthiant oddi wrth eu cyngho<g ref="char:EOLhyphen"/>rion, gyrr ymmaith hwynt yn amlder en cam<g ref="char:EOLhyphen"/>weddau: canys gwrth<g ref="char:EOLhyphen"/>ryfelâſant i'th erbyn di.</p>
+               <pb facs="tcp:180916:10" rendition="simple:additions"/>
+               <p n="11">11 A llawenhaed y rhai oll a ymddyrie<g ref="char:EOLhyphen"/>dant ynot, yn dragy<g ref="char:EOLhyphen"/>wydd y canmolant, am i ti orchguddio troſt<g ref="char:EOLhyphen"/>ynt hwy: a'r rhai a gâ<g ref="char:EOLhyphen"/>rant dy enw a orfole<g ref="char:EOLhyphen"/>ddant ynot.</p>
+               <p n="12">12 Canys ti Argl<g ref="char:EOLhyphen"/>wydd a fendithi y cyfi<g ref="char:EOLhyphen"/>awn: a charedigrwydd megis tarian y coroni di ef.</p>
+            </div>
+            <div n="2" type="Psalm">
+               <head>
+                  <hi>Pſal.</hi> 2.</head>
+               <p>ARglwydd na che<g ref="char:EOLhyphen"/>rydda fi yn dy lidi<g ref="char:EOLhyphen"/>awgrwydd, ac na choſ<g ref="char:EOLhyphen"/>pa fi yn dy líd.</p>
+               <p n="2">2 Trugarhâ wrthif Arglwydd, canys lleſc ydwyfi: iachâ fi ô Argl<g ref="char:EOLhyphen"/>wydd, canys fy eſcyrn a gyſtuddiwyd.</p>
+               <p n="3">3 A'm henaid a ddychrynwyd yn ddir<g ref="char:EOLhyphen"/>fawr: tithe Argllwydd pa hyd i'm cyſtuddi?</p>
+               <pb facs="tcp:180916:10"/>
+               <p n="4">4 Dychwel Arglw<g ref="char:EOLhyphen"/>ydd, gwaret fy enaid: iachâ ſi er mwyn dy drugaredd.</p>
+               <p n="5">5 Canys yn angeu nid oes goffa am da<g ref="char:EOLhyphen"/>nat: yn y bêdd pwy a'th fawl?</p>
+               <p n="6">6 Deffygias gan fy ochain, pob nos yr yd<g ref="char:EOLhyphen"/>wyf yn gwneuthur fyng-wely yn foddfa: yr ydwyfi yn gwlychu fyng-orweddfa a'm da<g ref="char:EOLhyphen"/>grau.</p>
+               <p n="7">7 Tywyllodd fy llygad gan ddigter: he<g ref="char:EOLhyphen"/>neiddiodd o herwydd fy holl elynnion.</p>
+               <p n="8">8 Ciliwch oddi wr<g ref="char:EOLhyphen"/>thif holl weithred-wyr anwiredd: canys yr Arglwydd a glywodd lêf fy wylofain.</p>
+               <pb facs="tcp:180916:11"/>
+               <p n="9">9 Clybu 'r Arglw<g ref="char:EOLhyphen"/>ydd fy neiſyfiad: yr Arglwydd a dderbyn fyng-weddi.</p>
+               <p n="10">10 Fy holl elynnion a wradwyddir, ac a dra<g ref="char:EOLhyphen"/>llodir yn ddirfawr: dychwelir, a chywily<g ref="char:EOLhyphen"/>ddir hwynt yn ddiſym<g ref="char:EOLhyphen"/>mwth.</p>
+            </div>
+            <div n="7" type="Psalm">
+               <head>
+                  <hi>Pſal.</hi> 7.</head>
+               <p>ARglwydd fy Nuw, ynot yr ymddyrie<g ref="char:EOLhyphen"/>dais: achub fi rhag fy holl erlid-wyr, a gwa<g ref="char:EOLhyphen"/>ret fi<g ref="char:punc">▪</g>
+               </p>
+               <p n="2">2 Rhag iddo larpio fy enaid fel llew: gan ei rwygo, pryd na byddo gwaredudd.</p>
+               <p n="3">3 Fy Arglwydd Dduw os gwneuthum hyn, od oes anwired yn fy nwylaw:</p>
+               <pb facs="tcp:180916:11"/>
+               <p n="4">4 O thêlais ddrwg i'r neb oedd heddychol â mi: oni waredais y rhai a'm gwyrthwyne<g ref="char:EOLhyphen"/>bent heb achos:</p>
+               <p n="5">5 Erlidied y gelyn fy enaid, a goddiwedd<g ref="char:EOLhyphen"/>ed fi: ſathred hefyd fy mywyd i'r llawr, a go<g ref="char:EOLhyphen"/>ſoded fyng-ogoniant i drigo yn y llwch. <hi>Selah.</hi>
+               </p>
+               <p n="9">9 Cyfod Arglwydd yn dy ddigllonedd, ymddercha o herwydd llid fyng-elynnion: de<g ref="char:EOLhyphen"/>ffro hefyd d<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> yn y farn a orchy<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>aiſt.</p>
+               <p n="7">7 Felly cynnulleid<g ref="char:EOLhyphen"/>fa y bobloedd a'th am<g ref="char:EOLhyphen"/>gylchynant: er eu mw<g ref="char:EOLhyphen"/>yn dychwel dithe i'r v<g ref="char:EOLhyphen"/>chelder.</p>
+               <p n="8">8 Yr Arglwydd a farn y bobloedd: bar<g ref="char:EOLhyphen"/>na di fi ô Arglwydd yn ôl fyng-hyfiawnder, ac yn ôl fy mherffeithr<g ref="char:EOLhyphen"/>wydd ſydd ynof.</p>
+               <pb facs="tcp:180916:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:180916:13"/>
+               <p n="9">9 Darfydded wei<g ref="char:EOLhyphen"/>thian anwiredd yr a<g ref="char:EOLhyphen"/>nnuwolion, eithr cyfar<g ref="char:EOLhyphen"/>wydda di y cyfiawn: canys y Duw cyfiawn a chwilia y calonnau, a'r arennau.</p>
+               <p n="10">10 Fy amddiffyn ſydd yn Nuw, iachaw<g ref="char:EOLhyphen"/>dur y rhai iniawn o ga<g ref="char:EOLhyphen"/>lon.</p>
+               <p n="11">11 Duw ſydd far<g ref="char:EOLhyphen"/>nudd cyfiawn, a Duw ſydd ddigllon beun<g ref="char:EOLhyphen"/>ydd wrth yr annuwiol.</p>
+               <p n="12">12 Oni ddychwel yr annuwiol, efe a hô<g ref="char:EOLhyphen"/>ga ei gleddyf, efe a ann<g ref="char:EOLhyphen"/>elodd ei fwa, ac ai pa<g ref="char:EOLhyphen"/>ratôdd.</p>
+               <p n="13">13 Paratôdd efe hefyd iddo arfau ang<g ref="char:EOLhyphen"/>hefol, efe a weithiodd ei ſaethau yn erbyn yr erlid-wyr.</p>
+               <pb facs="tcp:180916:13"/>
+               <p n="14">14 Wele efe a ym<g ref="char:EOLhyphen"/>ddwg anwiredd, canys beichiogodd ar gam<g ref="char:EOLhyphen"/>wedd, ac efe a eſcor ar gelwydd.</p>
+               <p n="15">15 Cloddiodd bwll, trychodd ef, ſyrthiodd h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fyd yn y deſtruw a wnaethe e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</p>
+               <p n="16">16 Ei anwiredd a yn chwel ar ei ben ef ei hun: a'i gamwedd a ddeſcyn ar ei goppa ei huu.</p>
+               <p n="17">17 Clodforaf yr Arglwydd yn ôl ei gy<g ref="char:EOLhyphen"/>fiawnder: a chan-mo<g ref="char:EOLhyphen"/>laf enw'r Arglwydd goruchaf.</p>
+            </div>
+            <div n="8" type="Psalm">
+               <head>
+                  <hi>Pſal.</hi> 8.</head>
+               <p>ARglwydd ein <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ôr <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i, mor arderchog yw dy enw yn yr holl fyd! yr hwn a rodd<g ref="char:EOLhyphen"/>aiſt dy ogoniant vwch y nefoedd.</p>
+               <pb facs="tcp:180916:14"/>
+               <p n="2">2 O enau bechgyn, a rhai yn ſugno y per<g ref="char:EOLhyphen"/>aiſt nerth o achos dy e<g ref="char:EOLhyphen"/>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nnion: i oſtegu y ge<g ref="char:EOLhyphen"/>lyn, a'r ymddialudd.</p>
+               <p n="3">3 Pan e drychwyf ar y nefoedd gwaith dy fyſedd, ſef y lloer a'r ſêr y rhai a ordeiniaiſt.</p>
+               <p n="4">4 Pa beth yw dyn i ti iw goffau? a mâb dyn i ti ymweled ag ef?</p>
+               <p n="5">5 Gwnaethoſt ef y<g ref="char:EOLhyphen"/>chydig îs na'r angeli<g ref="char:EOLhyphen"/>on: corônaiſt ef hefyd â gogoniant, ac a phry<g ref="char:EOLhyphen"/>dferthwch.</p>
+               <p n="6">6 Gwnaethoſt ef i arglwyddiaethu ar we<g ref="char:EOLhyphen"/>ithredoedd dy ddwy<g ref="char:EOLhyphen"/>lo: goſodaiſt bôb peth dann ei draed ef.</p>
+               <pb facs="tcp:180916:14"/>
+               <p n="7">7 Defaid, ac ychen oll, ac anifeiliaid y ma<g ref="char:EOLhyphen"/>es hefyd</p>
+               <p n="8">8 Ehediaid y nefo<g ref="char:EOLhyphen"/>edd, a phyſc y môr: y rhai a ydynt yn tra<g ref="char:EOLhyphen"/>mmwyo llwybrau y<g ref="char:EOLhyphen"/>moroedd.</p>
+               <p n="9">9 Arglwydd eyn Iôr mor ardderchog yw dy enw yn yr holl fyd.</p>
+            </div>
+            <div n="9" type="Psalm">
+               <head>
+                  <hi>Pſal.</hi> 9.</head>
+               <p>CLodforaf yr Argl<g ref="char:EOLhyphen"/>wydd a'm holl ga<g ref="char:EOLhyphen"/>lon: mynegaf dy holl ryfeddodau.</p>
+               <p n="2">2 Llawenychaf, a gorfoleddaf, ynot: ca<g ref="char:EOLhyphen"/>naf i'th enw di y Go<g ref="char:EOLhyphen"/>ruchaf.</p>
+               <p n="3">3 Tra y dychwelid fyng-elynnion yn en hôl, y llithrant, ac y di<g ref="char:EOLhyphen"/>fethir hwynt o'th flaen di.</p>
+               <pb facs="tcp:180916:15"/>
+               <p n="4">4 Canys gwnaethoſt fy marn a'm matter yn dda; eiſteddaiſt ar or<g ref="char:EOLhyphen"/>ſed-faingc ô farnudd cyfiawn.</p>
+               <p n="5">5 Ceryddaiſt y cen<g ref="char:EOLhyphen"/>hedloedd, deſtruwiaiſt yr annuwíol: eu henw hwynt a ddelêaiſt hef<g ref="char:EOLhyphen"/>yd byth bythol.</p>
+               <p n="6">6 Hâ elyn, darfu am ddiniſtr yn dragywydd diwreiddiaiſt y dinaſo<g ref="char:EOLhyphen"/>edd, darfu eu coffadwri<g ref="char:EOLhyphen"/>aeth gyd â hwyni.</p>
+               <p n="7">7 Yr Arglwydd a erys yn dragywydd: efe a baratodd ei orſedd<g ref="char:EOLhyphen"/>faing<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> i farn.</p>
+               <p n="8">8 Canys efe a farn y byd mewn cyfiawn<g ref="char:EOLhyphen"/>der: efe a farn y boblo<g ref="char:EOLhyphen"/>edd mewn iniondeb.</p>
+               <pb facs="tcp:180916:15"/>
+               <p n="9">9 Yr Arglwydd he<g ref="char:EOLhyphen"/>fyd fydd amddeffyn i'r truan, a nawddfa mewn pryd, ſef mewn cyfyng<g ref="char:EOLhyphen"/>der.</p>
+               <p n="10">10 A'r rhai a adwa<g ref="char:EOLhyphen"/>enant dy enw a ymddyriedant ynot: canys ni adewaiſt ô Arglwydd y rhai a'th geiſient.</p>
+               <p n="11">11 Canmolwch yr arglwydd yr hwn ſydd yn preſſwylio yn Sion: a mynegwch i'r boblo<g ref="char:EOLhyphen"/>edd ei weithredoedd ef.</p>
+               <p n="12">12 Canys pan ym<g ref="char:EOLhyphen"/>ofynno efe am waed, y cofia efe am danynt ac nid anghofia waedd y tlodion.</p>
+               <p n="13">13 Trugarhâ wrthif Arglwydd, fy nercha<g ref="char:EOLhyphen"/>fudd o byrth angeu: gwêl fy mlinder gan fyng-haſeion.</p>
+               <pb facs="tcp:180916:16"/>
+               <p n="14">14 Fel y mynegwyf dy holl foliant ym mh<g ref="char:EOLhyphen"/>yrth merch Sion: ac y llawenychwyf yn dy iechydwriaeth.</p>
+               <p n="15">15 Y cenhedloedd a ſoddaſant yn y ffôs yr hon a wnaethant: yn y rhwyd a guddiaſant, y daliwyd eu troed hwynt.</p>
+               <p n="16">16 Adweinir yr Ar<g ref="char:EOLhyphen"/>glwydd, canys efe a wnaeth farn: yr annu<g ref="char:EOLhyphen"/>wiol a faglwyd yng<g ref="char:EOLhyphen"/>weithredoedd ei ddw<g ref="char:EOLhyphen"/>ylo. <hi>Higaion Selah.</hi>
+               </p>
+               <p n="17">17 Y rhai drygio<g ref="char:EOLhyphen"/>nus a ymchwelant i v<g ref="char:EOLhyphen"/>ffern: ſef yr holl gen<g ref="char:EOLhyphen"/>hedloedd a anghofiant Dduw.</p>
+               <p n="18">18 Canys nid ang<g ref="char:EOLhyphen"/>hofîr y tlawd byth, go<g ref="char:EOLhyphen"/>baith y trueniaid ni chollir byth.</p>
+               <pb facs="tcp:180916:16"/>
+               <p n="19">19 Cyfod Arglw<g ref="char:EOLhyphen"/>ydd, na orfydded dyn: barner y cenhedloedd ger dy fron di.</p>
+               <p n="20">20 Goſot Argl<g ref="char:EOLhyphen"/>wydd ofn arnynt, gwy<g ref="char:EOLhyphen"/>bydded y cenhedloedd mai dynnion ydynt hwy. <hi>Selah.</hi>
+               </p>
+            </div>
+            <div n="10" type="Psalm">
+               <head>
+                  <hi>Pſal.</hi> 10.</head>
+               <p>PA ham Arglwydd y ſefi o bell, yr ymgu<g ref="char:EOLhyphen"/>ddi yn yr amſeroed pan ydym mewn cyfyng<g ref="char:EOLhyphen"/>der?</p>
+               <p n="2">2 Yr annuwiol mewn balchder a erlid y tlawd: dalier hwynt yn y dichellion a ddy<g ref="char:EOLhyphen"/>chymmygaſant.</p>
+               <p n="4">4 Canys yr annu<g ref="char:EOLhyphen"/>wiol a ffroſtiodd wrth ewyllys ei galon: a'r cybydd a ymfendithi<g ref="char:EOLhyphen"/>odd: diyſtyru y mae efe yr Arglwydd.</p>
+               <pb facs="tcp:180916:17"/>
+               <p n="4">4 Yr annuwiol gan ei falchder ni chais Dduw: nid ydyw Duw yn ei holl feddyliau ef.</p>
+               <p n="5">5 Ei ffyrdd ef ydynt flin bob amſer, vchel yw dy farnedigaerhau o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> olwg ef: efe a chw<g ref="char:EOLhyphen"/>yth yn erbyn ei holl e<g ref="char:EOLhyphen"/>lynnion.</p>
+               <p n="6">6 Dywedodd yn ei galon ni'm ſymmudir, o herwydd o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> byddaf mewn dryg fyd hyd genhedlaeth, a chen<g ref="char:EOLhyphen"/>hedlaeth.</p>
+               <p n="7">7 Ei enau ſydd yn llawn melldith, a dich<g ref="char:EOLhyphen"/>el, a thwyll: tann ei da<g ref="char:EOLhyphen"/>fod y mae camwedd, ac anwiredd.</p>
+               <p n="8">8 Y mae efe yn ei<g ref="char:EOLhyphen"/>ſtedd yng-hynllwynfa yr heolydd, mewn cil<g ref="char:EOLhyphen"/>facheu y lladd efe y gwirion: ei lygaid a dremmiant ar y tlâwd.</p>
+               <pb facs="tcp:180916:17"/>
+               <p n="9">9 Efe a gynllwyna mewn dirgelwch me<g ref="char:EOLhyphen"/>gis llew yn ei flau, bw<g ref="char:EOLhyphen"/>riadu y bydd i dreiſio yr tlawd: treiſia efe y tlawd gan ei dynnu iw rwyd.</p>
+               <p n="10">10 Efe a ymgyſtu<g ref="char:EOLhyphen"/>ddia, ac a ymoſtwng: fel y cwympo tyrfa tru<g ref="char:EOLhyphen"/>eniaid ym myſc ei ged<g ref="char:EOLhyphen"/>yrn ef.</p>
+               <p n="11">11 Dywedodd yn ei galon, anghofiodd Duw: cuddiodd ei wyneb, ni wel efe byth</p>
+               <p n="12">12 Cyfod Arglwydd Dduw, dercha dy law: nac anghofia y tlodi<g ref="char:EOLhyphen"/>on.</p>
+               <p n="13">13 Pa ham y cabla'r annuwiol Dduw? gan ddywedyd yn ei galon nad ymofynni.</p>
+               <pb facs="tcp:180916:18"/>
+               <p n="14">14 Gwelaiſt hyn, canys ti a genfyddi an<g ref="char:EOLhyphen"/>wiredd, a cham, i roddi tâl a'th ddwylo dy hun: arnat ti y gedu y tlawd ei obaith, ti ydwyt gy<g ref="char:EOLhyphen"/>nnorthwy-wr yr ym<g ref="char:EOLhyphen"/>ddifad.</p>
+               <p n="15">15 Torr fraich yr annuwiol, a'r drygio<g ref="char:EOLhyphen"/>uus: cais ei ddrigioni ef, ac nis cei.</p>
+               <p n="16">16 Yr Arglwydd ſydd Frenin byth, ac yn dragywydd: diniſtri<g ref="char:EOLhyphen"/>wyd y cenhedloedd oi dîr ef.</p>
+               <p n="17">17 Arglwydd cly<g ref="char:EOLhyphen"/>waiſt ddymuniad y tlo<g ref="char:EOLhyphen"/>dion, cyweiria di eu ca<g ref="char:EOLhyphen"/>lon hwynt: gwranda<g ref="char:EOLhyphen"/>wed dy gluſt arnynt.</p>
+               <p n="18">18 I farnu yr ym<g ref="char:EOLhyphen"/>ddifad a'r tlawd: fel na chwanego dyn da<g ref="char:EOLhyphen"/>iarol beri ofn mwyach.</p>
+            </div>
+            <div n="11" type="Psalm">
+               <pb facs="tcp:180916:18"/>
+               <head>
+                  <hi>Pſal.</hi> 11.</head>
+               <p>YN yr Arglwydd yr ydwyf yn ymddyri<g ref="char:EOLhyphen"/>ed, pa fodd y dywed<g ref="char:EOLhyphen"/>wch wrth fy enaid, ehe<g ref="char:EOLhyphen"/>da i'ch mynydd fel ade<g ref="char:EOLhyphen"/>ryn.</p>
+               <p n="2">2 Canys wele y drygi<g ref="char:EOLhyphen"/>onus a annelâſant fwâ, paratoaſant eu ſaetheu tu a'r llinin, i ſaethu mewn dirgelwch y rhai iniawn o galon.</p>
+               <p n="3">3 Canys y ſeiliau a ddiniſtriwyd: pa beth a wnaeth y cyfiawn.</p>
+               <p n="4">4 Yr Arglwydd ſydd yn Nheml ei ſanc<g ref="char:EOLhyphen"/>teiddrwydd, gorſeddfa yr Arglwydd ſydd yn y nefoedd, y mae ei ly<g ref="char:EOLhyphen"/>gaid ef yn gweled y tlawd: ei amrantau yn chwilio meibion dy<g ref="char:EOLhyphen"/>nnion.</p>
+               <p n="5">5 Yr Arglwydd a brawf y cyfiawn: eithr câs gan ei enaid ef y drygionus, a'r hwn ſydd hoff ganddo anwi<g ref="char:EOLhyphen"/>redd.</p>
+               <pb facs="tcp:180916:19"/>
+               <p n="6">6 Ar yr annuwolion y glawia efe fagleu, tân, a brwmſtan, a gwynt yſtormus fydd rhan eu phiol hwy.</p>
+               <p n="7">7 Canys yr Arglw<g ref="char:EOLhyphen"/>ydd cyfiawn a gâr gyfi<g ref="char:EOLhyphen"/>awnder: ai wyneb a genfydd y rhai iniawn.</p>
+            </div>
+            <div n="12" type="Psalm">
+               <head>
+                  <hi>Pſal.</hi> 12.</head>
+               <p>Achub Arglwydd, canys darfu y rhai trugarog: o herwydd pallodd y ffyddlonni<g ref="char:EOLhyphen"/>aid o blith meibion dy<g ref="char:EOLhyphen"/>nnion.</p>
+               <p n="2">2 Ofêredd a ddywe<g ref="char:EOLhyphen"/>dant bob vn wrth ei gymmydog, â gwefus wenhieithgar: ac â cha<g ref="char:EOLhyphen"/>lon ddau ddyblyg y lle<g ref="char:EOLhyphen"/>fârant.</p>
+               <p n="3">3 Torred yr Argl<g ref="char:EOLhyphen"/>wydd yr holl wefuſau gwenlneithus, a'r tafod a ddywedo fawrhydry.</p>
+               <pb facs="tcp:180916:19"/>
+               <p n="4">4 Y rhai a ddywe<g ref="char:EOLhyphen"/>dant, â'n tafod y gor<g ref="char:EOLhyphen"/>fyddwn: nyni a allwn ddywedyd a fynnom, pwy ſydd Arglwydd arnom ni.</p>
+               <p n="5">5 O herwydd an<g ref="char:EOLhyphen"/>rhaith y rhai cyſtuddi<g ref="char:EOLhyphen"/>edic, ac o herwydd v<g ref="char:EOLhyphen"/>chenaid y tlodion, y cyfodaf yn awr medd yr Arglwdd: rhoddaf mewn iechydwriaeth yr hwn y magler iddo.</p>
+               <p n="6">6 Geiriau yr Argl<g ref="char:EOLhyphen"/>wydd ydynt eiriau pu<g ref="char:EOLhyphen"/>rion, fel arian wedi ei goethi mewn ffwrn bridd, wedi ei buro ſe<g ref="char:EOLhyphen"/>ith-waith.</p>
+               <p n="7">7 Ti Arglwydd ai cedwi hwynt: cedwi hwynt rhag y genhed<g ref="char:EOLhyphen"/>laeth hon yn dragy<g ref="char:EOLhyphen"/>wydd.</p>
+               <p n="8">8 Yr annuwolion a rodiant o amgylch: pan eu derchefir, gwarth fyddi feibion dynnion.</p>
+            </div>
+            <div n="13" type="Psalm">
+               <pb facs="tcp:180916:20"/>
+               <head>
+                  <hi>Pſal.</hi> 13.</head>
+               <p>PA hyd Arglwydd <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m anghofi? ai yn dragywydd? pa hyd y cuddi dy wyneb rha<g ref="char:EOLhyphen"/>gof?</p>
+               <p n="2">2 Pa hyd y goſodaf gynghorion yn fy me<g ref="char:EOLhyphen"/>ddwl, a blinder beu<g ref="char:EOLhyphen"/>nydd yn fyng-halon? pa hyd y derchefir fyng<g ref="char:EOLhyphen"/>elyn arnaf.</p>
+               <p n="3">3 Edrych, a chlyw fi ô Arglwydd fy Nuw: goleua fy llygaid rhag i'm hûno yn yr angeu.</p>
+               <p n="4">4 Rhag dywedyd o'm gelyn, gorchfygais ef: canys fyng-wrth wyneb-wyr a laweny<g ref="char:EOLhyphen"/>chant os llithraf.</p>
+               <p n="5">5 Minne hefyd a ymddyriedais yn dy drugaredd di, fyng-ha<g ref="char:EOLhyphen"/>lon a ymlawenycha yn dy iechydwriaeth: ca<g ref="char:EOLhyphen"/>naf i'r Arglwydd, am iddo ſynnio arnaf, ie mi a ganaf i'r Arglw<g ref="char:EOLhyphen"/>ydd goruchaf.</p>
+               <trailer>Terfyn ar hynn: hyd oni threfno Duw Gymmorth ymhellach.</trailer>
+               <pb facs="tcp:180916:20" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
